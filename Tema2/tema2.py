@@ -29,35 +29,39 @@ class MyHandler(BaseHTTPRequestHandler):
             repo = self.path.split('/', 3)[3]
             result = tema2DB['paths'].find({'repo': repo}, projection={'repo': 1, 'infos': 1, '_id': 0})
             if result.count() == 0:
-                self.wfile.write(bytearray((code422Header) + "nu am putut procesa repo-ul: " + repo, 'utf-8'))            
+                message = "nu am putut procesa repo-ul: " + repo
+                self.wfile.write(bytearray((code422Header) + dumps({"message": message}), 'utf-8'))
             else:
                 self.wfile.write(bytearray((code200Header) + dumps(result), 'utf-8'))
         elif self.path[:11] == '/repos/md5/':  
             md5 = self.path.split('/', 3)[3]
             if not re.findall(r"([a-fA-F\d]{32})", md5):
-                self.wfile.write(bytearray((code400Header) + md5 + ' nu este un md5 valid', 'utf-8'))                                
+                message = "nu este un md5 valid"
+                self.wfile.write(bytearray((code400Header) + dumps({"message": message}), 'utf-8'))
             else:
                 result = tema2DB['paths'].find({'infos.files.fileinfo.md5' : md5}, projection={'repo': 1, 'infos': 1, '_id': 0})                
                 print(result.count())
                 if result.count() == 0:
                     self.wfile.write(bytearray((code204Header), 'utf-8')) 
                 else:
-                    
                     self.wfile.write(bytearray((code200Header) + dumps(result), 'utf-8'))
-            
         else:
-            self.wfile.write(bytearray((code404Header + "[GET]mare greseala"), 'utf-8'))
+            message = "[GET]mare greseala"
+            self.wfile.write(bytearray((code404Header) + dumps({"message": message}), 'utf-8'))            
+
     def do_POST(self):
         content_length = int(self.headers['Content-Length'])
         try: 
             posted_data = json.loads(self.rfile.read(content_length))
         except:
-            self.wfile.write(bytearray((code415Header + "datele furnizate nu sunt  inf format JSON"), 'utf-8'))
-            return            
+            message = "datele furnizate nu sunt  in format JSON"
+            self.wfile.write(bytearray((code415Header) + dumps({"message": message}), 'utf-8'))
+            return         
 #        print(posted_data)
         result = tema2DB['paths'].find({'repo': posted_data['repo']}, projection={'repo': 1, 'infos': 1, '_id': 0})
         if self.path != '/repos/repo/' and self.path != '/repos/repo':
-                self.wfile.write(bytearray((code404Header + "[POST]mare greseala"), 'utf-8'))
+                message = "[POST]mare greseala"
+                self.wfile.write(bytearray((code404Header) + dumps({"message": message}), 'utf-8'))            
                 return
         found = 0
         for elem in result:
@@ -68,8 +72,8 @@ class MyHandler(BaseHTTPRequestHandler):
             self.wfile.write(bytearray((code409Header) + "Exista deja", 'utf-8'))
         else:
             tema2DB['paths'].insert_one(posted_data)
-            self.wfile.write(bytearray((code201Header) + "Am adaugat cu succes in DB", 'utf-8'))
-            
+            message = "Am adaugat cu succes in DB"
+            self.wfile.write(bytearray((code201Header) + dumps({"message": message}), 'utf-8'))            
 #        print(found)    
 
     def do_PUT(self):
@@ -77,10 +81,12 @@ class MyHandler(BaseHTTPRequestHandler):
         try: 
             posted_data = json.loads(self.rfile.read(content_length))
         except:
-            self.wfile.write(bytearray((code415Header + "datele furnizate nu sunt  inf format JSON"), 'utf-8'))
-            return
+            message = "datele furnizate nu sunt  in format JSON"
+            self.wfile.write(bytearray((code415Header) + dumps({"message": message}), 'utf-8'))
+            return         
         if self.path != '/repos/repo/' and self.path != '/repos/repo':
-            self.wfile.write(bytearray((code404Header + "[PUT]mare greseala"), 'utf-8'))
+            message = "[PUT]mare greseala"
+            self.wfile.write(bytearray((code404Header) + dumps({"message": message}), 'utf-8'))
             return
 
         result = tema2DB['paths'].find({'repo': posted_data['repo']}, projection={'repo': 1, 'infos': 1, '_id': 0})
@@ -93,16 +99,19 @@ class MyHandler(BaseHTTPRequestHandler):
             self.wfile.write(bytearray((code200Header) + "Am facut replace", 'utf-8'))
         else:
             tema2DB['paths'].insert_one(posted_data)
-            self.wfile.write(bytearray((code201Header) + "Am adaugat cu succes in DB un element nou", 'utf-8'))
+            message = "Am adaugat cu succes in DB un element nou"
+            self.wfile.write(bytearray((code201Header) + dumps({"message": message}), 'utf-8'))
     def do_DELETE(self):
         content_length = int(self.headers['Content-Length'])
         try: 
             posted_data = json.loads(self.rfile.read(content_length))
         except:
-            self.wfile.write(bytearray((code415Header + "datele furnizate nu sunt  inf format JSON"), 'utf-8'))
+            message = "datele furnizate nu sunt  in format JSON"
+            self.wfile.write(bytearray((code415Header) + dumps({"message": message}), 'utf-8'))
             return         
         if self.path != '/repos/repo/' and self.path != '/repos/repo':
-                self.wfile.write(bytearray((code404Header + "[DELETE]mare greseala"), 'utf-8'))
+                message = "[DELETE]mare greseala"
+                self.wfile.write(bytearray((code404Header) + dumps({"message": message}), 'utf-8'))
                 return
         result = tema2DB['paths'].find({'repo': posted_data['repo']}, projection={'repo': 1, 'infos': 1, '_id': 0})
         found = 0
@@ -112,9 +121,11 @@ class MyHandler(BaseHTTPRequestHandler):
                 tema2DB['paths'].delete_one(elem)
 
         if found == 1:
-            self.wfile.write(bytearray((code200Header) + "Sergerea efectuata cu succes", 'utf-8'))
+            message = "Sergerea efectuata cu succes"
+            self.wfile.write(bytearray((code200Header) + dumps({"message": message}), 'utf-8'))
         else:
-            self.wfile.write(bytearray((code404Header) + "nu am gasit repo-ul dat", 'utf-8'))
+            message = "nu am gasit repo-ul dat"
+            self.wfile.write(bytearray((code404Header) + dumps({"message": message}), 'utf-8'))
             
    
         
