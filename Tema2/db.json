@@ -1,0 +1,5296 @@
+{
+    "natnael-wubet/exploit_over_http": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "form.ps1": {
+                "path": "form.ps1",
+                "size": 1455,
+                "lastTimeDownloaded": "02.04.2018 13:59",
+                "md5": "423dc0b8781e7e8d9e15706712c89ca3"
+            },
+            "main.ps1": {
+                "path": "main.ps1",
+                "size": 31766,
+                "lastTimeDownloaded": "02.04.2018 13:59",
+                "md5": "718e6510a7f5dfbb542dabf6b61997b7"
+            },
+            "back.ps1": {
+                "path": "back.ps1",
+                "size": 4153,
+                "lastTimeDownloaded": "02.04.2018 13:59",
+                "md5": "b3b4d4880afcc4d32a1e0d7beaa5eca6"
+            }
+        }
+    },
+    "bspence7337/Invoke-WMIpersist": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-WMIpersist.ps1": {
+                "path": "Invoke-WMIpersist.ps1",
+                "size": 3774,
+                "lastTimeDownloaded": "02.05.2018 12:27",
+                "md5": "cfed413a2cd9fb5fbb92efa00fac5967"
+            }
+        }
+    },
+    "ubeeri/Invoke-UserSimulator": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-UserSimulator.ps1": {
+                "path": "Invoke-UserSimulator.ps1",
+                "size": 17167,
+                "lastTimeDownloaded": "02.05.2018 11:52",
+                "md5": "a1efb22d3b4ee0129e3873bbf41af775"
+            }
+        }
+    },
+    "FixTheExchange/Invoke-ExchangeWebShellHunter": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ExchangeWebShellHunter.ps1": {
+                "path": "Invoke-ExchangeWebShellHunter.ps1",
+                "size": 87660,
+                "lastTimeDownloaded": "02.04.2018 14:33",
+                "md5": "1e0cd6d159741ea6babc37506e98e68e"
+            }
+        }
+    },
+    "itm4n/Ikeext-Privesc": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Ikeext-Privesc.ps1": {
+                "path": "Ikeext-Privesc.ps1",
+                "size": 298308,
+                "lastTimeDownloaded": "14.11.2018 09:24",
+                "md5": "f33d1b3391241faef444aeaa65d93d4b"
+            }
+        }
+    },
+    "fox-it/Invoke-ACLPwn": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ACLPwn.ps1": {
+                "path": "Invoke-ACLPwn.ps1",
+                "size": 64384,
+                "lastTimeDownloaded": "14.11.2018 10:36",
+                "md5": "9ceb8162a2e9ad9902eb3829ad71030e"
+            }
+        }
+    },
+    "jpsider/Invoke-Automation": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "module.Steps.ps1": {
+                "path": "Powershell/Plaster/FullModuleTemplate/spec/module.Steps.ps1",
+                "size": 3821,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "f4cbfdf44537b5e965af7df9465efda4"
+            },
+            "PowerLumberTestScript.ps1": {
+                "path": "Powershell/Random/PowerLumberTestScript.ps1",
+                "size": 2070,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "a24769495c61832031406df3c5c6a504"
+            },
+            "Microsoft.Powershell_profile.ps1": {
+                "path": "Docker/Microsoft.Powershell_profile.ps1",
+                "size": 1717,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "91439bd3cd77ae3eecaf9687808360e7"
+            },
+            "demoScript.ps1": {
+                "path": "Powershell/Random/demoScript.ps1",
+                "size": 2376,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "b48f0e26ad9cf6831cf6de27d2b64044"
+            },
+            "Project.Tests.ps1": {
+                "path": "Powershell/Plaster/FullModuleTemplate/tests/Project.Tests.ps1",
+                "size": 922,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "3a802a77d86849837bee4d3879478f1d"
+            },
+            "profile.ps1": {
+                "path": "Docker/LinuxPowerTools/profile.ps1",
+                "size": 1378,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "6d9f57c409c116022408e2852513fb07"
+            },
+            "New-VesterTest.ps1": {
+                "path": "Powercli/New-VesterTest.ps1",
+                "size": 8999,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "1f7cce98a73ad0731d8f98ee2edd195e"
+            },
+            "destroyLab.ps1": {
+                "path": "homelab/destroyLab.ps1",
+                "size": 1652,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "deea5d596242454d17984ce32ef18182"
+            },
+            "Scratchpad.ps1": {
+                "path": "Powershell/Plaster/Scratchpad.ps1",
+                "size": 199,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "f8eeec37dc930097420ce30e99dda478"
+            },
+            "RestCallsPHP.ps1": {
+                "path": "Powershell/Random/RestCallsPHP.ps1",
+                "size": 2153,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "7dd05f93a462dcb4f8337b37c647da31"
+            },
+            "deploy_home_lab.ps1": {
+                "path": "homelab/deploy_home_lab.ps1",
+                "size": 10481,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "885f2c3d7af2addda73ab18948709284"
+            },
+            "module.build.ps1": {
+                "path": "Powershell/Plaster/FullModuleTemplate/module.build.ps1",
+                "size": 5876,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "0c6048cf0a4ecbd58cacf17e6cf2b251"
+            },
+            "Build_vester_tests.ps1": {
+                "path": "Powercli/Build_vester_tests.ps1",
+                "size": 9973,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "8eb8e399598303a157ff187c32906183"
+            },
+            "GetConsole.ps1": {
+                "path": "Powercli/GetConsole.ps1",
+                "size": 4331,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "2dc85bfa9bbb9386d2853334a869420f"
+            },
+            "build.ps1": {
+                "path": "Powershell/Plaster/FullModuleTemplate/build.ps1",
+                "size": 796,
+                "lastTimeDownloaded": "02.04.2018 14:38",
+                "md5": "0e91f593d9594d492e44a28313a8ac89"
+            },
+            "RunPSCodeHealth.ps1": {
+                "path": "Powercli/VMWorld2018/FunctionBased/tests/RunPSCodeHealth.ps1",
+                "md5": "b7c82a2900c37789328e4fc12b4f6be3",
+                "size": 1459,
+                "lastTimeDownloaded": "14.11.2018 11:10"
+            },
+            "New-GitHubIssue.ps1": {
+                "path": "Powershell/GitHub/New-GitHubIssue.ps1",
+                "md5": "32c6752818be73f68add6733232da3a1",
+                "size": 2220,
+                "lastTimeDownloaded": "14.11.2018 11:10"
+            },
+            "RunPSScriptAnalyzer.ps1": {
+                "path": "Powercli/VMWorld2018/FunctionBased/tests/RunPSScriptAnalyzer.ps1",
+                "md5": "7767517da458819ab0894c9cb0aeb638",
+                "size": 877,
+                "lastTimeDownloaded": "14.11.2018 11:10"
+            },
+            "RunPester.ps1": {
+                "path": "Powercli/VMWorld2018/FunctionBased/tests/RunPester.ps1",
+                "md5": "1b3cbeed619529e4ff5549ee4dea7e66",
+                "size": 1467,
+                "lastTimeDownloaded": "14.11.2018 11:10"
+            }
+        }
+    },
+    "peewpw/Invoke-BSOD": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-BSOD.ps1": {
+                "path": "Invoke-BSOD.ps1",
+                "size": 2398,
+                "lastTimeDownloaded": "02.05.2018 11:41",
+                "md5": "96c9de3cf6569fcb25b646ad2eebf33b"
+            }
+        }
+    },
+    "Exploit-install/PowerSploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Get-MethodAddress.ps1": {
+                "path": "ReverseEngineering/Get-MethodAddress.ps1",
+                "size": 4234,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "e6cccf1677416303406f3146856e91e2"
+            },
+            "Get-ObjDump.ps1": {
+                "path": "PETools/Get-ObjDump.ps1",
+                "size": 27843,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "4ac1a37db9fe4a6738330c986636e848"
+            },
+            "New-ElevatedPersistenceOptions.ps1": {
+                "path": "Persistence/New-ElevatedPersistenceOptions.ps1",
+                "size": 5140,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "219601acd52a3e7b15b97341b956e764"
+            },
+            "Get-Keystrokes.ps1": {
+                "path": "Exfiltration/Get-Keystrokes.ps1",
+                "size": 13004,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "8246938ea289390160cde716fb7150b7"
+            },
+            "New-UserPersistenceOptions.ps1": {
+                "path": "Persistence/New-UserPersistenceOptions.ps1",
+                "size": 3555,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "4a28fe300db945f1f511b36abe7d3343"
+            },
+            "Get-Strings.ps1": {
+                "path": "ReverseEngineering/Get-Strings.ps1",
+                "size": 2639,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "232e858af21bc3f01adf8a2589efc66f"
+            },
+            "Get-Entropy.ps1": {
+                "path": "ReverseEngineering/Get-Entropy.ps1",
+                "size": 2344,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "12a76a51ca2effbd76c4cf36f4a0daca"
+            },
+            "ProcessModuleTrace.ps1": {
+                "path": "ReverseEngineering/ProcessModuleTrace.ps1",
+                "size": 2523,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "780d7249d3961e20eb7c97fccd8fb87b"
+            },
+            "Invoke-ReflectivePEInjection.ps1": {
+                "path": "CodeExecution/Invoke-ReflectivePEInjection.ps1",
+                "size": 132399,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "b7381f96f21072c116e78f287835c0d4"
+            },
+            "Invoke-Portscan.ps1": {
+                "path": "Recon/Invoke-Portscan.ps1",
+                "size": 41555,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "88ca111619777f632386f272a91211e5"
+            },
+            "ConvertTo-String.ps1": {
+                "path": "ReverseEngineering/ConvertTo-String.ps1",
+                "size": 1837,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "de90a45980f1be740b45b8d334b3db88"
+            },
+            "New-Object.ps1": {
+                "path": "ReverseEngineering/New-Object.ps1",
+                "size": 2189,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "973e4341574843a0fcd1f7c81595e039"
+            },
+            "Out-EncryptedScript.ps1": {
+                "path": "ScriptModification/Out-EncryptedScript.ps1",
+                "size": 4568,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "f1f477a073fcda04a90f1b26b725f1a3"
+            },
+            "Get-ILDisassembly.ps1": {
+                "path": "ReverseEngineering/Get-ILDisassembly.ps1",
+                "size": 7932,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "ee670d984e09066fbb2ec1f286c13aeb"
+            },
+            "Get-PEHeader.ps1": {
+                "path": "PETools/Get-PEHeader.ps1",
+                "size": 47161,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "ecb947ce8feabab6c0bd8f8a6fc4a9f9"
+            },
+            "Get-LibSymbols.ps1": {
+                "path": "PETools/Get-LibSymbols.ps1",
+                "size": 10121,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "b1d7e7b2b213f51d8cf7fb18681a12c6"
+            },
+            "Get-DllLoadPath.ps1": {
+                "path": "PETools/Get-DllLoadPath.ps1",
+                "size": 6709,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "ec01821d912557ab50679021c3d11962"
+            },
+            "Get-PEB.ps1": {
+                "path": "ReverseEngineering/Get-PEB.ps1",
+                "size": 67326,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "86d71755e8cd3b0c0b3c3355dc968ef6"
+            },
+            "Get-NtSystemInformation.ps1": {
+                "path": "ReverseEngineering/Get-NtSystemInformation.ps1",
+                "size": 54431,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "0e9e3d0deda43d9425ebce957efe403a"
+            },
+            "Get-Member.ps1": {
+                "path": "ReverseEngineering/Get-Member.ps1",
+                "size": 18155,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "38588df399e4fc5f0b9da25d78bad12d"
+            },
+            "Invoke-DllInjection.ps1": {
+                "path": "CodeExecution/Invoke-DllInjection.ps1",
+                "size": 12621,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "6529d70d7c73b1e453b864213ac9775f"
+            },
+            "Get-StructFromMemory.ps1": {
+                "path": "ReverseEngineering/Get-StructFromMemory.ps1",
+                "size": 9070,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "a62c0be6d82244d448c19e749017b04f"
+            },
+            "Add-Persistence.ps1": {
+                "path": "Persistence/Add-Persistence.ps1",
+                "size": 16025,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "e2ddfdfc811b9b79a72244a870bf9376"
+            },
+            "Invoke-ShellcodeMSIL.ps1": {
+                "path": "CodeExecution/Invoke-ShellcodeMSIL.ps1",
+                "size": 11843,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "bd8f41e099a7473d5665e7907b54e042"
+            },
+            "Invoke-Shellcode.ps1": {
+                "path": "CodeExecution/Invoke-Shellcode.ps1",
+                "size": 31725,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "311f9274b780ef746ae085fe91218391"
+            },
+            "Invoke-TokenManipulation.ps1": {
+                "path": "Exfiltration/Invoke-TokenManipulation.ps1",
+                "size": 92931,
+                "lastTimeDownloaded": "02.04.2018 13:54",
+                "md5": "175e32469a34f337ca7c0bd9c41f72c0"
+            }
+        }
+    },
+    "thisispuneet/invokeNSXCLICmd": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "invokeNSXCLICmd.ps1": {
+                "path": "invokeNSXCLICmd.ps1",
+                "size": 1064,
+                "lastTimeDownloaded": "02.04.2018 14:49",
+                "md5": "bc678e335c5fe3c97d3c9d2ab6abcd38"
+            }
+        }
+    },
+    "steveawc/Get-MS14-068": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "threatexpress/invoke-pipeshell": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PipeShell.ps1": {
+                "path": "Invoke-PipeShell.ps1",
+                "size": 9937,
+                "lastTimeDownloaded": "02.04.2018 14:25",
+                "md5": "a42e47a006f5d0f4aefca15f6409ec88"
+            }
+        }
+    },
+    "derantell/LaunchyScripts": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "FuzzySecurity/PSKernel-Primitives": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Get-SyscallDelegate.ps1": {
+                "path": "Get-SyscallDelegate.ps1",
+                "size": 12861,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "bed1bd41a23d82b135592638bb598a96"
+            },
+            "Stage-HmValidateHandlePalette.ps1": {
+                "path": "Stage-HmValidateHandlePalette.ps1",
+                "size": 8460,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "a0a35b7b19f6b9ff8df7e270a16fe8b7"
+            },
+            "CapCom-GDI-x64Universal.ps1": {
+                "path": "Sample-Exploits/Capcom/CapCom-GDI-x64Universal.ps1",
+                "size": 15870,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "f893c955980b76e4a3e80412cf21a08c"
+            },
+            "Stage-HmValidateHandleBitmap.ps1": {
+                "path": "Stage-HmValidateHandleBitmap.ps1",
+                "size": 7192,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "7e2b2d5b71f529aad242bc17aa4fcaa6"
+            }
+        }
+    },
+    "xtr4nge/FruityC2": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "ps_stager.ps1": {
+                "path": "agent/ps_stager.ps1",
+                "size": 6610,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "0689b0a2432b7c59c63c150e5788a5f8"
+            },
+            "ps_agent.ps1": {
+                "path": "agent/ps_agent.ps1",
+                "size": 33534,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "5f60b0fa7f85d3b555c86ced00c59362"
+            },
+            "ps_proxy.ps1": {
+                "path": "agent/ps_proxy.ps1",
+                "size": 12197,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "68c75b2b68b7439ef35747a7b0b5fc43"
+            },
+            "Invoke-CheckServices.ps1": {
+                "path": "modules/core/Invoke-CheckServices.ps1",
+                "size": 2798,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "bdf223b2a7f0183971bb4e4a0cbee85b"
+            },
+            "Get-PassHashes.ps1": {
+                "path": "modules/core/Get-PassHashes.ps1",
+                "size": 17187,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "1ca04772a51792ea1a0d425634421e21"
+            }
+        }
+    },
+    "ap3r/drunkenkatz": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "nightroman/Invoke-Build": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Direct.test.ps1": {
+                "path": "Tests/Direct.test.ps1",
+                "size": 415,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "c2db26277609bbc8167f2fdfb0d6eb53"
+            },
+            "Tools.ps1": {
+                "path": "Tests/Invoke-TaskFrom/Tools.ps1",
+                "size": 350,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "e45d6a7f0aacde809b2fef6c3f6fd9a9"
+            },
+            ".build.ps1": {
+                "path": ".build.ps1",
+                "size": 9462,
+                "lastTimeDownloaded": "25.02.2019 17:25",
+                "md5": "6f0caf03dd331d10cda0c83808531bdc"
+            },
+            "Dynamic.test.ps1": {
+                "path": "Tests/Dynamic.test.ps1",
+                "size": 2379,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "69f0a9b3ff4a7db158089e4ba4c7b7e1"
+            },
+            "Tasks.ps1": {
+                "path": "Tests/ArgumentCompleters/Tasks.ps1",
+                "size": 496,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "5fb0f1d2aca8a6a0b4b7ee477c0f2d54"
+            },
+            "TabExpansionPlusPlus.build.ps1": {
+                "path": "Tests/ArgumentCompleters/TabExpansionPlusPlus.build.ps1",
+                "size": 105,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "fb9edb7f4ffd922208d5e97a24b7c889"
+            },
+            "VSCode2.test.ps1": {
+                "path": "Tests/VSCode2.test.ps1",
+                "size": 848,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "390d3200bd4980e7bf4fb5dacd01a87c"
+            },
+            "Project.build.ps1": {
+                "path": "Tasks/Paket/Project.build.ps1",
+                "size": 1609,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "26ef7acd00d3777f34e73cbc4aa092ae"
+            },
+            "TaskSplat.test.ps1": {
+                "path": "Tests/TaskSplat.test.ps1",
+                "size": 611,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "eb622263701f9df89a73bc8b3835b581"
+            },
+            "New-VSCodeTask.ps1": {
+                "path": "New-VSCodeTask.ps1",
+                "size": 5209,
+                "lastTimeDownloaded": "14.11.2018 10:31",
+                "md5": "5feba2435791ea9ccd903dfa1ce2eb94"
+            },
+            "Dot.test.ps1": {
+                "path": "Tests/Dot-source-ib/Dot.test.ps1",
+                "size": 382,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "721d0e3fe007f8a1582869ab2f2864a2"
+            },
+            "Param.build.ps1": {
+                "path": "Tasks/Param/Param.build.ps1",
+                "size": 958,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "f039f1f39768067cee98893aad06dce8"
+            },
+            "Acknowledged.build.ps1": {
+                "path": "Tests/Acknowledged.build.ps1",
+                "size": 4649,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "ced20818acfa4f7813b0f1fc33beb2bf"
+            },
+            "Invoke-TaskFromVSCode.ps1": {
+                "path": "Invoke-TaskFromVSCode.ps1",
+                "size": 1928,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "de115833771fe9d6fb931e144b812a60"
+            },
+            "Convert-psake.test.ps1": {
+                "path": "Tests/Convert-psake/Convert-psake.test.ps1",
+                "size": 219,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "2e1f92cccf11e6f4d882d2d524281e29"
+            },
+            "Invoke-TaskFromISE.ps1": {
+                "path": "Invoke-TaskFromISE.ps1",
+                "size": 3100,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "d8dac4b407417a5be4820e5e2e229b23"
+            },
+            "BuildRoot.test.ps1": {
+                "path": "Tests/BuildRoot.test.ps1",
+                "size": 2135,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "5830f7f173069945583aaa3e0ddd03db"
+            },
+            "Custom.test.ps1": {
+                "path": "Tests/Custom.test.ps1",
+                "size": 1051,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "9e509e67e178c027ea76329c3f56eaf3"
+            },
+            "TabExpansion2.v5.build.ps1": {
+                "path": "Tests/ArgumentCompleters/TabExpansion2.v5.build.ps1",
+                "size": 69,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "95a660492c4bcc616d4a84daa287cf86"
+            },
+            "InvokeFrom.build.ps1": {
+                "path": "Tests/Invoke-TaskFrom/InvokeFrom.build.ps1",
+                "size": 316,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "52b317761d82ccad213c42e3ec056f64"
+            },
+            "Invoke-Build.ArgumentCompleters.ps1": {
+                "path": "Invoke-Build.ArgumentCompleters.ps1",
+                "size": 2029,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "34bdbaae660cf7d46d4275db43f01e34"
+            },
+            "Register-VSCodeTask.ps1": {
+                "path": "Register-VSCodeTask.ps1",
+                "size": 1848,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "e4219ca67a4facebea161a058ba18052"
+            },
+            "Default.test.ps1": {
+                "path": "Tests/Default.test.ps1",
+                "size": 2205,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "5e1acda27b53ebeaa0ab56b71c4454f8"
+            },
+            "build.ps1": {
+                "path": "Tasks/Direct/build.ps1",
+                "size": 1041,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "50bb0e3a88ac0de94a61b9a981d43db9"
+            },
+            "Convert-psake.ps1": {
+                "path": "Convert-psake.ps1",
+                "md5": "9a8e81677999cfe08c7f30f4bc816599",
+                "size": 11349,
+                "lastTimeDownloaded": "14.11.2018 10:31"
+            },
+            "Errors.test.ps1": {
+                "path": "Tests/Errors.test.ps1",
+                "md5": "e0ed1b13f030c58d82c0d6ec9ffbf179",
+                "size": 2009,
+                "lastTimeDownloaded": "14.11.2018 10:31"
+            },
+            "Invoke-TaskFromVSCode.test.ps1": {
+                "path": "Tests/Invoke-TaskFrom/Invoke-TaskFromVSCode.test.ps1",
+                "md5": "9964ca5eaaec39f10793ecaa9891d9e4",
+                "size": 2176,
+                "lastTimeDownloaded": "14.11.2018 10:31"
+            },
+            "VSCode.test.ps1": {
+                "path": "Tests/VSCode.test.ps1",
+                "md5": "4b21b545ca06a228933e7e14c3f5db41",
+                "size": 1887,
+                "lastTimeDownloaded": "14.11.2018 10:31"
+            },
+            "Invoke-TaskFromISE.test.ps1": {
+                "path": "Tests/Invoke-TaskFrom/Invoke-TaskFromISE.test.ps1",
+                "md5": "54089d9c8491aa15a02cec2e0cf861c1",
+                "size": 2947,
+                "lastTimeDownloaded": "14.11.2018 10:31"
+            },
+            "InvokeBuild-Help.ps1": {
+                "path": "InvokeBuild-Help.ps1",
+                "md5": "e00cd2e83f2fe9da04844b0fee6cb5b7",
+                "size": 32441,
+                "lastTimeDownloaded": "14.11.2018 10:31"
+            },
+            "Fixed.test.ps1": {
+                "path": "Tests/Fixed.test.ps1",
+                "md5": "a4109ee3396ef1ae049fb9a2aaccd448",
+                "size": 10946,
+                "lastTimeDownloaded": "25.02.2019 17:25"
+            }
+        }
+    },
+    "Dviros/Excalibur": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "p_v2.ps1": {
+                "path": "p_v2.ps1",
+                "size": 11209,
+                "lastTimeDownloaded": "02.04.2018 13:48",
+                "md5": "2a498bb7b154645afc11cf4f8d583b14"
+            }
+        }
+    },
+    "natnael-wubet/exploit_over_tcp": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "main.ps1": {
+                "path": "main.ps1",
+                "size": 16115,
+                "lastTimeDownloaded": "02.04.2018 14:00",
+                "md5": "1d82aeb8d0965029d2e0d4de9cdf406c"
+            }
+        }
+    },
+    "JavierOlmedo/check-ms17-010": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "InvokeV/InvokeV-Container": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Setup.ps1": {
+                "path": "Setup.ps1",
+                "size": 793,
+                "lastTimeDownloaded": "02.04.2018 14:40",
+                "md5": "0b35464f22aaaec2b74a85ad4e3f4fae"
+            },
+            "Sample.ps1": {
+                "path": "Sample.ps1",
+                "size": 1494,
+                "lastTimeDownloaded": "02.04.2018 14:40",
+                "md5": "18142ca9304bd69d7d6470bc7eeeb667"
+            }
+        }
+    },
+    "shakenetwork/Empire": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Out-ObfuscatedStringCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-ObfuscatedStringCommand.ps1",
+                "md5": "75464cfcbf0353c98c638ee0dd42988f",
+                "size": 49138,
+                "lastTimeDownloaded": "14.11.2018 10:15"
+            },
+            "Get-ComputerDetails.ps1": {
+                "path": "data/module_source/situational_awareness/host/Get-ComputerDetails.ps1",
+                "md5": "a3ed33d749584aacb426f02dcb941d45",
+                "size": 17716,
+                "lastTimeDownloaded": "14.11.2018 10:16"
+            }
+        }
+    },
+    "CyberMonitor/Invoke-Adversary": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Adversary.ps1": {
+                "path": "Invoke-Adversary.ps1",
+                "md5": "fd7955e47eb05d0d7f0b6f2000aa95c5",
+                "size": 33909,
+                "lastTimeDownloaded": "14.11.2018 10:38"
+            }
+        }
+    },
+    "davehardy20/Invoke-WinRMAttack": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "Robicus/invoke-psdump": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Examples.ps1": {
+                "path": "Invoke-PSDump/Scripts/Examples.ps1",
+                "size": 938,
+                "lastTimeDownloaded": "02.04.2018 14:37",
+                "md5": "0fb3e92f9b27f746ba8924e7920ae383"
+            }
+        }
+    },
+    "PowerShellMafia/PowerSploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Get-MicrophoneAudio.ps1": {
+                "path": "Exfiltration/Get-MicrophoneAudio.ps1",
+                "size": 7366,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "36622ac07149595796f8ec7e5cb3b9bc"
+            },
+            "Invoke-ReflectivePEInjection.ps1": {
+                "path": "CodeExecution/Invoke-ReflectivePEInjection.ps1",
+                "size": 135782,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "0d416f8cd599c029f28344f288c73caf"
+            },
+            "Out-Minidump.ps1": {
+                "path": "Exfiltration/Out-Minidump.ps1",
+                "size": 3616,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "c9516626832a85a020ae0e2ff5a0bfa4"
+            },
+            "Find-AVSignature.ps1": {
+                "path": "AntivirusBypass/Find-AVSignature.ps1",
+                "size": 6583,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "badeda6b5eb1412a72e98c6984bdcf80"
+            },
+            "Invoke-Portscan.ps1": {
+                "path": "Recon/Invoke-Portscan.ps1",
+                "size": 41534,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "6586b57b628ef0ea6c24a341db018ce9"
+            },
+            "Invoke-DllInjection.ps1": {
+                "path": "CodeExecution/Invoke-DllInjection.ps1",
+                "size": 12721,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "c4de6f3bba661a7fc3922ff938619725"
+            },
+            "Remove-Comments.ps1": {
+                "path": "ScriptModification/Remove-Comments.ps1",
+                "size": 5061,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "2719daa8c81ec2fc0ac87784a11a0414"
+            },
+            "Get-System.ps1": {
+                "path": "Privesc/Get-System.ps1",
+                "size": 26485,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "45a418848bfd7cd5d330dc63dd71a59e"
+            },
+            "Privesc.tests.ps1": {
+                "path": "Tests/Privesc.tests.ps1",
+                "size": 50613,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "2d39e7c099b5d191707d19d59be45586"
+            },
+            "Get-Keystrokes.ps1": {
+                "path": "Exfiltration/Get-Keystrokes.ps1",
+                "size": 16512,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "d82be5ccb9416958abeb59506d112af7"
+            },
+            "Invoke-TokenManipulation.ps1": {
+                "path": "Exfiltration/Invoke-TokenManipulation.ps1",
+                "size": 94704,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "ee886cd71de14b7f51c6a89f781b783c"
+            },
+            "Recon.tests.ps1": {
+                "path": "Tests/Recon.tests.ps1",
+                "size": 21725,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "6e3734f3938f19e3f031b31f9d89e15b"
+            },
+            "Invoke-ReverseDnsLookup.ps1": {
+                "path": "Recon/Invoke-ReverseDnsLookup.ps1",
+                "size": 8101,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "527df4e7901a9130e87d476e5021a8e6"
+            },
+            "Invoke-Shellcode.ps1": {
+                "path": "CodeExecution/Invoke-Shellcode.ps1",
+                "size": 23817,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "9fb0dd54c5b2abae77f1943ff5dd6076"
+            },
+            "Get-VaultCredential.ps1": {
+                "path": "Exfiltration/Get-VaultCredential.ps1",
+                "size": 20432,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "cad71ffe3356c90c97383865387b03eb"
+            },
+            "Out-EncryptedScript.ps1": {
+                "path": "ScriptModification/Out-EncryptedScript.ps1",
+                "size": 4850,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "7c02d432566b56e1c224173c9c7792ac"
+            },
+            "Out-EncodedCommand.ps1": {
+                "path": "ScriptModification/Out-EncodedCommand.ps1",
+                "size": 7792,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "0367157f4e32b07915cbaef702acded1"
+            },
+            "Out-CompressedDll.ps1": {
+                "path": "ScriptModification/Out-CompressedDll.ps1",
+                "size": 2386,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "004672e882c7aa7b1156769e6e580f5e"
+            },
+            "Invoke-WmiCommand.ps1": {
+                "path": "CodeExecution/Invoke-WmiCommand.ps1",
+                "size": 14479,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "28e5f4f9eaad865788a038487667e181"
+            },
+            "CodeExecution.tests.ps1": {
+                "path": "Tests/CodeExecution.tests.ps1",
+                "size": 52571,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "8e46af21347cc9298217b18a434c38a1"
+            },
+            "Get-ComputerDetails.ps1": {
+                "path": "Recon/Get-ComputerDetails.ps1",
+                "md5": "70aa435c5ba1abb0a7ed8e086ddee2d5",
+                "size": 17631,
+                "lastTimeDownloaded": "14.11.2018 09:17"
+            }
+        }
+    },
+    "malachitheninja/Invoke-Kerberoast": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Kerberoast.ps1": {
+                "path": "Invoke-Kerberoast.ps1",
+                "size": 25729,
+                "lastTimeDownloaded": "02.05.2018 12:23",
+                "md5": "40d3d8795559a556a8897ec6e003fc91"
+            }
+        }
+    },
+    "sebug/InvokeDockerServer": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Copy-Built.ps1": {
+                "path": "Copy-Built.ps1",
+                "size": 532,
+                "lastTimeDownloaded": "02.04.2018 14:52",
+                "md5": "9df100242f3b0e5fe47b8bb052b2212d"
+            }
+        }
+    },
+    "hlldz/Invoke-Phant0m": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Phant0m.ps1": {
+                "path": "Invoke-Phant0m.ps1",
+                "size": 64285,
+                "lastTimeDownloaded": "02.04.2018 14:13",
+                "md5": "5d262dc848aee5dd1f4d61dc29e311e2"
+            }
+        }
+    },
+    "Hackingzone/winpirate": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "thepaulbenoit/WinPirate": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "dpbackes/Invoke-Make": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Make.ps1": {
+                "path": "Invoke-Make.ps1",
+                "size": 2331,
+                "lastTimeDownloaded": "02.04.2018 15:00",
+                "md5": "abb03a4b8b48a16b3a4c02e937c36ae7"
+            }
+        }
+    },
+    "adamdriscoll/snek": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "DesBlock/UnquotedFilePathExploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Exploit.ps1": {
+                "path": "Exploit.ps1",
+                "size": 11461,
+                "lastTimeDownloaded": "02.04.2018 14:00",
+                "md5": "85003d7736ca999f85f07ac39d4e6f13"
+            }
+        }
+    },
+    "Truneski/Invoke-DBC2": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-DBC2.ps1": {
+                "path": "agent/Invoke-DBC2.ps1",
+                "size": 34229,
+                "lastTimeDownloaded": "02.04.2018 14:34",
+                "md5": "878a117711e4a9e87860c0b57e2f5db1"
+            }
+        }
+    },
+    "outflanknl/Invoke-ADLabDeployer": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ADLabDeployer.ps1": {
+                "path": "Invoke-ADLabDeployer.ps1",
+                "size": 53158,
+                "lastTimeDownloaded": "02.04.2018 14:22",
+                "md5": "81fbb8b824b9496193a4988f3b1a3272"
+            }
+        }
+    },
+    "Exploit-install/Veil-Pillage": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "frankjtc/jQueryClient-WebAPIService": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "devkeydet/AutomationInvokeWindowsUpdateAzureRmVM": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "InvokeWindowsUpdateAzureRmVM.ps1": {
+                "path": "InvokeWindowsUpdateAzureRmVM.ps1",
+                "size": 4095,
+                "lastTimeDownloaded": "02.04.2018 14:43",
+                "md5": "3a2a81c7ba4c61d31b3cfb9fab658875"
+            }
+        }
+    },
+    "kendi/InvokePsql": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Test-Invoke-Psql.ps1": {
+                "path": "Test/Test-Invoke-Psql.ps1",
+                "size": 4363,
+                "lastTimeDownloaded": "02.04.2018 14:49",
+                "md5": "17744dd4a3528cab1b83d4b3a3a9f426"
+            },
+            "Invoke-Psql.ps1": {
+                "path": "Invoke-Psql.ps1",
+                "size": 3695,
+                "lastTimeDownloaded": "02.04.2018 14:49",
+                "md5": "0051c4a838f92f839bfcdad92747584a"
+            },
+            "Invoke-NewProcess.ps1": {
+                "path": "Invoke-NewProcess.ps1",
+                "size": 2177,
+                "lastTimeDownloaded": "02.04.2018 14:49",
+                "md5": "696153e9b83f506ccd2cd26c4a758396"
+            }
+        }
+    },
+    "tevora-threat/eternal_blue_powershell": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "EternalBlue.ps1": {
+                "path": "EternalBlue.ps1",
+                "size": 26687,
+                "lastTimeDownloaded": "02.04.2018 13:44",
+                "md5": "9d3eaf0d45f5b9555f892fda1110b320"
+            }
+        }
+    },
+    "gunnarhaslinger/Windows-Defender-Exploit-Guard-Configuration": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Remove-all-ProcessMitigations.ps1": {
+                "path": "Remove-all-ProcessMitigations.ps1",
+                "size": 4932,
+                "lastTimeDownloaded": "02.04.2018 14:01",
+                "md5": "953e9f18ff22056d95410aa6fab1a57e"
+            },
+            "Windows10-v1709_ExploitGuard-Config.ps1": {
+                "path": "Windows10-v1709_ExploitGuard-Config.ps1",
+                "size": 1587,
+                "lastTimeDownloaded": "02.04.2018 14:01",
+                "md5": "f388a031446aa67384a92e8c3eab45cf"
+            },
+            "Enable-ExploitGuard-AttackSurfaceReduction.ps1": {
+                "path": "Enable-ExploitGuard-AttackSurfaceReduction.ps1",
+                "md5": "cfcba5fc152f41e1e3eb08b9b08a500a",
+                "size": 4483,
+                "lastTimeDownloaded": "14.11.2018 09:58"
+            }
+        }
+    },
+    "tmcmil/Invoke-DNSDiscovery": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-DNSDiscovery.ps1": {
+                "path": "Invoke-DNSDiscovery.ps1",
+                "md5": "29e12447d657c0697cff75d02868e1fc",
+                "size": 193064,
+                "lastTimeDownloaded": "14.11.2018 11:39"
+            }
+        }
+    },
+    "Zymk/meltdown-spectre-exploitfix": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "meltdown-spectre.ps1": {
+                "path": "meltdown-spectre.ps1",
+                "size": 10863,
+                "lastTimeDownloaded": "02.04.2018 14:01",
+                "md5": "15304e1f94ea43de5e27ebcec1d56f56"
+            }
+        }
+    },
+    "Exploit-install/Exploits": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "jonasonline/invoke-jcsendmail": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-JCSendMail.ps1": {
+                "path": "Invoke-JCSendMail.ps1",
+                "size": 2802,
+                "lastTimeDownloaded": "02.04.2018 14:59",
+                "md5": "882c277793a6c5db632569bbe6defd43"
+            }
+        }
+    },
+    "MeshkDevs/InvokeTwitterAPIs": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Install.ps1": {
+                "path": "Install.ps1",
+                "size": 794,
+                "lastTimeDownloaded": "02.04.2018 14:23",
+                "md5": "78ee9b699d4b03b87140a3bf2a43b939"
+            }
+        }
+    },
+    "madmantm/powershell": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "xorrior/RandomPS-Scripts": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-WmicDriveBy.ps1": {
+                "path": "Invoke-WmicDriveBy.ps1",
+                "size": 6879,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "4e7fff9878b398c8bfeb0a047ccd70af"
+            },
+            "New-JScriptShell.ps1": {
+                "path": "JScriptShell/New-JScriptShell.ps1",
+                "size": 6472,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "10b90f2799cbdec50aae811182c83e89"
+            },
+            "Invoke-WindowsEnum.ps1": {
+                "path": "Invoke-WindowsEnum.ps1",
+                "size": 15226,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "3cddf43cdde7f157eee8ff5c9ad1b1ac"
+            },
+            "Invoke-ExecuteMSBuild.ps1": {
+                "path": "Invoke-ExecuteMSBuild.ps1",
+                "size": 10606,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "83de80c46941594a164c499026f62dca"
+            },
+            "Get-FoxDump.ps1": {
+                "path": "Get-FoxDump.ps1",
+                "size": 32288,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "c6183ee4f35d60cd5a01127f556a275b"
+            },
+            "WMIBackdoor.ps1": {
+                "path": "WMIBackdoor.ps1",
+                "md5": "eebd6b4fe1ba7ba868a250d2870f7dc7",
+                "size": 7506,
+                "lastTimeDownloaded": "14.11.2018 09:21"
+            }
+        }
+    },
+    "cybervaca/Empire-test-mod": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Sherlock.ps1": {
+                "path": "data/module_source/privesc/Sherlock.ps1",
+                "size": 16947,
+                "lastTimeDownloaded": "02.04.2018 14:03",
+                "md5": "ef43a4340b7992cf3fb5ebdb17e0abac"
+            }
+        }
+    },
+    "mrkaminski77/Invoke-Sql": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Sql.ps1": {
+                "path": "Invoke-Sql.ps1",
+                "size": 675,
+                "lastTimeDownloaded": "02.04.2018 14:58",
+                "md5": "849ed36e0e3ee28126359b61e92124f8"
+            }
+        }
+    },
+    "shaynevanasperen/PowerTasks": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "install.ps1": {
+                "path": "PowerTasks/tools/install.ps1",
+                "size": 1572,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "bdf3b1d1a318147cb333bfcf02c85a94"
+            },
+            "TeamCityReleaseNotes.ps1": {
+                "path": "PowerTasks/.Tasks/TeamCityReleaseNotes.ps1",
+                "size": 2099,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "936e543d46e7e6053fcecf27d800901e"
+            },
+            "OctoDeployRelease.ps1": {
+                "path": "PowerTasks/.Tasks/OctoDeployRelease.ps1",
+                "size": 1116,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "6290d8fa69865e46b4dd7879129893ec"
+            },
+            "uninstall.ps1": {
+                "path": "PowerTasks/tools/uninstall.ps1",
+                "size": 686,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "0c12fa7cf3c9059913cdbca500f15b0e"
+            },
+            "OctoCreateRelease.ps1": {
+                "path": "PowerTasks/.Tasks/OctoCreateRelease.ps1",
+                "size": 1447,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "225ebe1f1f1eca44abcbc5c089a0cbe8"
+            },
+            "Compile.ps1": {
+                "path": "PowerTasks/.Tasks/Compile.ps1",
+                "size": 4197,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "509bb1240210dd84f5c75ca76db4a49b"
+            }
+        }
+    },
+    "pjhartlieb/post-exploitation": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "Tervis-Tumbler/InvokeSQL": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "InvokeSQL.tests.ps1": {
+                "path": "InvokeSQL.tests.ps1",
+                "md5": "89ba15be12775344d84976a932ca817c",
+                "size": 985,
+                "lastTimeDownloaded": "14.11.2018 10:44"
+            }
+        }
+    },
+    "1RedOne/Invoke-Clippy": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Clippy.ps1": {
+                "path": "Public/Invoke-Clippy.ps1",
+                "size": 8211,
+                "lastTimeDownloaded": "02.04.2018 14:23",
+                "md5": "60518d16c19ba402175d23b4802b5a89"
+            }
+        }
+    },
+    "Duffney/InvokeDSC": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "publish.ps1": {
+                "path": "buildscripts/publish.ps1",
+                "size": 967,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "a91ad5dd7b15794ea29b87dc35c126e7"
+            },
+            "test.ps1": {
+                "path": "buildscripts/test.ps1",
+                "size": 628,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "b1357a13b56102eff3029a002cc51c96"
+            },
+            "ConvertTo-DSC.Tests.ps1": {
+                "path": "tests/Public/ConvertTo-DSC.Tests.ps1",
+                "size": 11429,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "f91918113b91baf4352fba8fadd8f579"
+            },
+            "ConvertTo-DSC.ps1": {
+                "path": "InvokeDSC/Public/ConvertTo-DSC.ps1",
+                "size": 5645,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "07b647eb1d5617d0bb1faaa727d9d3a7"
+            },
+            "Invoke-DSC.ps1": {
+                "path": "InvokeDSC/Public/Invoke-DSC.ps1",
+                "size": 4088,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "7b448eb33f5b640f10d416f2c28a73c5"
+            },
+            "Invoke-DscConfiguration.ps1": {
+                "path": "InvokeDSC/Public/Invoke-DscConfiguration.ps1",
+                "size": 2640,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "e96558c53dc80e80ffd5bb207c3c71d1"
+            },
+            "Invoke-DSC.Tests.ps1": {
+                "path": "tests/Public/Invoke-DSC.Tests.ps1",
+                "size": 7845,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "9053e79bd8b27a7ab0fa9a5b186ba4c4"
+            },
+            "Install-ModuleFromConfiguration.Tests.ps1": {
+                "path": "tests/Public/Install-ModuleFromConfiguration.Tests.ps1",
+                "size": 7929,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "d1f1822362ea5343319feea15bc4b66f"
+            },
+            "Get-LatestModuleVersion.Tests.ps1": {
+                "path": "tests/Private/Get-LatestModuleVersion.Tests.ps1",
+                "size": 2893,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "65a10b346c695f152bc8cc5916c25bc2"
+            },
+            "Get-ModuleFromConfiguration.Tests.ps1": {
+                "path": "tests/Private/Get-ModuleFromConfiguration.Tests.ps1",
+                "size": 6847,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "38bce3d45b7def8fd1e78d5f195ced1a"
+            },
+            "build.ps1": {
+                "path": "buildscripts/build.ps1",
+                "size": 792,
+                "lastTimeDownloaded": "02.04.2018 14:27",
+                "md5": "d487293cde85d188fa993de899da6506"
+            }
+        }
+    },
+    "shakenetwork/Invoke-Obfuscation": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Obfuscation.ps1": {
+                "path": "Invoke-Obfuscation.ps1",
+                "size": 123496,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "24b5cfccdb9d3d7aef46db9099c99986"
+            },
+            "Out-EncodedOctalCommand.ps1": {
+                "path": "Out-EncodedOctalCommand.ps1",
+                "size": 48656,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "0f7f2ac63b7c1f0dbf7bb02951b7dc61"
+            },
+            "Out-EncodedBinaryCommand.ps1": {
+                "path": "Out-EncodedBinaryCommand.ps1",
+                "size": 50818,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "026f323cf0ec998395d0b2469d95bf26"
+            },
+            "Out-EncodedHexCommand.ps1": {
+                "path": "Out-EncodedHexCommand.ps1",
+                "size": 49130,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "90d53cc273db16ab44b2fc794d2a9ff4"
+            },
+            "Out-SecureStringCommand.ps1": {
+                "path": "Out-SecureStringCommand.ps1",
+                "size": 50380,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "db39fe1c774e888f7f35e24d13872f9d"
+            },
+            "Out-ObfuscatedStringCommand.ps1": {
+                "path": "Out-ObfuscatedStringCommand.ps1",
+                "size": 100082,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "fdd42c697e7f31a4cf10d019560ca660"
+            },
+            "Out-EncodedBXORCommand.ps1": {
+                "path": "Out-EncodedBXORCommand.ps1",
+                "size": 49274,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "a0bb7afb1467187136db3228efe5fb9a"
+            },
+            "Out-EncodedSpecialCharOnlyCommand.ps1": {
+                "path": "Out-EncodedSpecialCharOnlyCommand.ps1",
+                "size": 51680,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "4478ea63e4e9434a798773925d6ef9d0"
+            },
+            "Out-PowerShellLauncher.ps1": {
+                "path": "Out-PowerShellLauncher.ps1",
+                "size": 195786,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "d296db4965a36c0182c2525bfe6f5945"
+            },
+            "Out-EncodedWhitespaceCommand.ps1": {
+                "path": "Out-EncodedWhitespaceCommand.ps1",
+                "size": 62410,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "8c13fc230c9c9db48f14ee104cc4597a"
+            },
+            "Out-EncodedAsciiCommand.ps1": {
+                "path": "Out-EncodedAsciiCommand.ps1",
+                "size": 46732,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "fa890e6e068bfea707bc698d71c4dbb5"
+            },
+            "Out-ObfuscatedTokenCommand.ps1": {
+                "path": "Out-ObfuscatedTokenCommand.ps1",
+                "size": 210730,
+                "lastTimeDownloaded": "02.04.2018 14:45",
+                "md5": "0ba4d2d43601cf364e87f3885c7b6817"
+            }
+        }
+    },
+    "Cyb3rWard0g/Invoke-ATTACKAPI": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ATTACKAPI.ps1": {
+                "path": "Invoke-ATTACKAPI.ps1",
+                "size": 82337,
+                "lastTimeDownloaded": "02.05.2018 11:38",
+                "md5": "6eaefe9f0ed3bfd9939734663202bcd6"
+            }
+        }
+    },
+    "Arno0x/DBC2": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-NTLMAuth.ps1": {
+                "path": "modules/Invoke-NTLMAuth.ps1",
+                "size": 962,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "0709aa25be0788756f3306e0c41071d0"
+            },
+            "Powercat.ps1": {
+                "path": "modules/Powercat.ps1",
+                "size": 37389,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "e54b0c671427e23192839dbb56f67c7b"
+            },
+            "ConvertTo-Shellcode.ps1": {
+                "path": "dbc2Loader/nativeWrapper/ConvertTo-Shellcode.ps1",
+                "size": 33976,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "2781b27c7ecb34dc32eec2f0671042d0"
+            },
+            "Invoke-SendReverseShell.ps1": {
+                "path": "modules/Invoke-SendReverseShell.ps1",
+                "size": 10955,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "8e2f2c659abe8db2b87f8472dd680417"
+            },
+            "Invoke-PowerDump.ps1": {
+                "path": "modules/Invoke-PowerDump.ps1",
+                "size": 21735,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "4b40e3cded8d1c0236e772c269da94be"
+            },
+            "MailRaider.ps1": {
+                "path": "modules/MailRaider.ps1",
+                "size": 34734,
+                "lastTimeDownloaded": "02.04.2018 13:52",
+                "md5": "c2765152ad85e98b5089d0ffbf195690"
+            }
+        }
+    },
+    "martin9700/Invoke-ActiveDirectoryHealthCheck": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ADOPTest.ps1": {
+                "path": "Invoke-ADOPTest.ps1",
+                "size": 4943,
+                "lastTimeDownloaded": "02.04.2018 14:50",
+                "md5": "e4bf60eb19747004276cbab2b5112776"
+            },
+            "Invoke-ADTests.tests.ps1": {
+                "path": "Tests/Invoke-ADTests.tests.ps1",
+                "size": 4069,
+                "lastTimeDownloaded": "02.04.2018 14:50",
+                "md5": "8eca4a6e789e652636e992b0e765c272"
+            }
+        }
+    },
+    "enigma0x3/Powershell-Payload-Excel-Delivery": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "renzu0/WindowsExploits": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "seclib/netripper": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-NetRipper.ps1": {
+                "path": "PowerShell/Invoke-NetRipper.ps1",
+                "size": 253522,
+                "lastTimeDownloaded": "02.05.2018 11:35",
+                "md5": "41eb87580279228c60ea2766f1e98208"
+            }
+        }
+    },
+    "Cantstandya/Invoke-CMSchedule": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-CMSchedule.ps1": {
+                "path": "Invoke-CMSchedule.ps1",
+                "size": 3928,
+                "lastTimeDownloaded": "02.05.2018 12:25",
+                "md5": "9ec086735c0981c838ad834099d7b9d9"
+            }
+        }
+    },
+    "AshWilliams/PowershellMeltdownSpectreCheck": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "Cr0n1c/Invoke-Traceroute": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Traceroute.ps1": {
+                "path": "Invoke-Traceroute.ps1",
+                "size": 1485,
+                "lastTimeDownloaded": "02.05.2018 12:16",
+                "md5": "6104a0abf3f86e8b3bfac81ebd652685"
+            }
+        }
+    },
+    "mwallner/Invoke-Remote": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Remote.ps1": {
+                "path": "InvokeRemote/Invoke-Remote.ps1",
+                "size": 2700,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "186d2b14db3407b30d8e8bd13b8a5c9b"
+            },
+            "Install-ChocolateyRemote.ps1": {
+                "path": "InvokeRemote/Install-ChocolateyRemote.ps1",
+                "size": 1428,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "f5bb59ffe24f87026f9eaec1adcf481e"
+            },
+            "Invoke-RemotePester.ps1": {
+                "path": "InvokeRemote/Invoke-RemotePester.ps1",
+                "size": 3002,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "54b401d0497abf0f4e7008549707660e"
+            },
+            "Send-Files.ps1": {
+                "path": "InvokeRemote/Send-Files.ps1",
+                "size": 2078,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "9cc1c8c1be22f5f2f77da6f1f8451c2f"
+            },
+            "build.ps1": {
+                "path": "build.ps1",
+                "size": 6297,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "1a21141b08b9171fe55975308955ad05"
+            },
+            "Invoke-RemotePsake.ps1": {
+                "path": "InvokeRemote/Invoke-RemotePsake.ps1",
+                "size": 3032,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "b51bd86af9862c359f64cc7e44fb7480"
+            },
+            "Get-RemoteSession.ps1": {
+                "path": "InvokeRemote/Get-RemoteSession.ps1",
+                "size": 1127,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "272fc6af75804e7138a07cdff23992fd"
+            },
+            "chocolateyinstall.ps1": {
+                "path": "nuget/tools/chocolateyinstall.ps1",
+                "size": 1927,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "071625686d069abda712c4eeb7d7d390"
+            }
+        }
+    },
+    "gold1029/PowerSploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-ReflectivePEInjection.ps1": {
+                "path": "CodeExecution/Invoke-ReflectivePEInjection.ps1",
+                "size": 137236,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "a875e14f20afb3a8e37e1447d920466e"
+            },
+            "Invoke--Shellcode.ps1": {
+                "path": "CodeExecution/Invoke--Shellcode.ps1",
+                "size": 32635,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "af17a2c4c38621b78d2714dc18dae5e2"
+            },
+            "Invoke-DllInjection.ps1": {
+                "path": "CodeExecution/Invoke-DllInjection.ps1",
+                "size": 12759,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "bd4a368197988d636d4e73606288484a"
+            },
+            "Invoke-TokenManipulation.ps1": {
+                "path": "Exfiltration/Invoke-TokenManipulation.ps1",
+                "size": 93994,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "8e8c6170d49926e5fe1e2c71e7cbfab1"
+            },
+            "Out-EncryptedScript.ps1": {
+                "path": "ScriptModification/Out-EncryptedScript.ps1",
+                "size": 4740,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "851d73462105c9660f032d26b1d707b4"
+            },
+            "Get-Keystrokes.ps1": {
+                "path": "Exfiltration/Get-Keystrokes.ps1",
+                "size": 13004,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "5429322bb1d78b821b3cf51cf31e3689"
+            },
+            "Invoke-Shellcode.ps1": {
+                "path": "CodeExecution/Invoke-Shellcode.ps1",
+                "size": 1802,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "2737998397726c378d1a7311b4c1de7a"
+            },
+            "Get-VaultCredential.ps1": {
+                "path": "Exfiltration/Get-VaultCredential.ps1",
+                "size": 20434,
+                "lastTimeDownloaded": "02.04.2018 14:04",
+                "md5": "238990c6190c85fb2f1c3a68e32cf1bb"
+            },
+            "Get-ComputerDetails.ps1": {
+                "path": "Recon/Get-ComputerDetails.ps1",
+                "md5": "10299bf2b93fcd7612aa22c7493522d3",
+                "size": 17711,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            }
+        }
+    },
+    "CosmosKey/InvokeAsSystem": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-AsService.ps1": {
+                "path": "Invoke-AsService.ps1",
+                "size": 14350,
+                "lastTimeDownloaded": "02.04.2018 14:39",
+                "md5": "0a17ae46fb790b207c56a11d5cea3fdb"
+            },
+            "Invoke-AsSystem.ps1": {
+                "path": "Invoke-AsSystem.ps1",
+                "size": 5518,
+                "lastTimeDownloaded": "02.04.2018 14:39",
+                "md5": "057dcc7963f55ed271a71407889f4a8f"
+            }
+        }
+    },
+    "dfranciscus/Invoke-PSTrace": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PSTrace.ps1": {
+                "path": "Invoke-PSTrace.ps1",
+                "size": 3546,
+                "lastTimeDownloaded": "02.05.2018 12:21",
+                "md5": "1fefe49318b0f8b6c0312da17ee0f57c"
+            }
+        }
+    },
+    "adegutis/Invoke-SQL": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-SQL.ps1": {
+                "path": "Invoke-SQL.ps1",
+                "size": 4528,
+                "lastTimeDownloaded": "02.05.2018 12:16",
+                "md5": "708913dde58fdb93e9d3699d5f1f42f4"
+            }
+        }
+    },
+    "dfranciscus/Invoke-Win10Upgrade": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Windows10Upgrade.ps1": {
+                "path": "Invoke-Windows10Upgrade.ps1",
+                "size": 8027,
+                "lastTimeDownloaded": "02.04.2018 14:28",
+                "md5": "494213a5e79396fdffd1dd318ceceebb"
+            }
+        }
+    },
+    "DanMcInerney/Obf-Cats": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "potatoqualitee/modules": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "ch33kyf3ll0w/Invoke-InstallUtilNSExec.ps1": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-InstallUtilNSExec.ps1": {
+                "path": "Invoke-InstallUtilNSExec.ps1",
+                "size": 9609,
+                "lastTimeDownloaded": "02.04.2018 14:40",
+                "md5": "5356dadec33ca2580ae450283f4b3d42"
+            }
+        }
+    },
+    "asterisk9101/Invoke-Logger": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Logger.Tests.ps1": {
+                "path": "Invoke-Logger.Tests.ps1",
+                "size": 854,
+                "lastTimeDownloaded": "02.05.2018 12:21",
+                "md5": "8b917da6005ec2bdccc4243b2736c60f"
+            },
+            "Invoke-Logger.ps1": {
+                "path": "Invoke-Logger.ps1",
+                "size": 2006,
+                "lastTimeDownloaded": "02.05.2018 12:21",
+                "md5": "c19e70c8fc03a8edd629ba92405055aa"
+            }
+        }
+    },
+    "attactics/Invoke-DCOMPowerPointPivot": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-DCOMPowerPointPivot.ps1": {
+                "path": "Invoke-DCOMPowerPointPivot.ps1",
+                "size": 10962,
+                "lastTimeDownloaded": "02.04.2018 14:25",
+                "md5": "a7aa519e1046a4d12136f289360cf79b"
+            }
+        }
+    },
+    "dfinke/PowerShellContextSplit": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "TryContextSplit.ps1": {
+                "path": "TryContextSplit.ps1",
+                "size": 259,
+                "lastTimeDownloaded": "02.04.2018 14:46",
+                "md5": "ed3a5e4d81dccb693b8e18251adca696"
+            },
+            "Invoke-ContextSplit.ps1": {
+                "path": "Invoke-ContextSplit.ps1",
+                "size": 3883,
+                "lastTimeDownloaded": "02.04.2018 14:46",
+                "md5": "59141c540297ab9afa7e0147b8c3f3b7"
+            }
+        }
+    },
+    "Exploit-install/Empire": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-Tater.ps1": {
+                "path": "data/module_source/privesc/Invoke-Tater.ps1",
+                "size": 68501,
+                "lastTimeDownloaded": "02.04.2018 14:05",
+                "md5": "9f355e4d0fa8076845971d6cc08290dd"
+            },
+            "Invoke-PSInject.ps1": {
+                "path": "data/module_source/management/Invoke-PSInject.ps1",
+                "size": 149569,
+                "lastTimeDownloaded": "02.04.2018 14:05",
+                "md5": "fa26f41e1f4895c82cb5010f199c0494"
+            },
+            "Invoke-Inveigh.ps1": {
+                "path": "data/module_source/collection/Invoke-Inveigh.ps1",
+                "size": 73542,
+                "lastTimeDownloaded": "02.04.2018 14:05",
+                "md5": "eec38cd26c0473b5f4a02341d1d22f94"
+            },
+            "Invoke-RunAs.ps1": {
+                "path": "data/module_source/management/Invoke-RunAs.ps1",
+                "size": 1654,
+                "lastTimeDownloaded": "02.04.2018 14:05",
+                "md5": "6f76ca0d0c6c212075306ed207a7a064"
+            },
+            "Invoke-InveighRelay.ps1": {
+                "path": "data/module_source/lateral_movement/Invoke-InveighRelay.ps1",
+                "size": 72759,
+                "lastTimeDownloaded": "02.04.2018 14:05",
+                "md5": "aaf6ebe9ea2b1d3dfed366df9709b181"
+            },
+            "Get-ComputerDetails.ps1": {
+                "path": "data/module_source/situational_awareness/host/Get-ComputerDetails.ps1",
+                "md5": "939e47eb2fd7fce9ac5ef741a0199964",
+                "size": 17711,
+                "lastTimeDownloaded": "14.11.2018 10:07"
+            }
+        }
+    },
+    "warnergodfrey/invokemsbuild": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "RunTests.ps1": {
+                "path": "Tests/RunTests.ps1",
+                "size": 1813,
+                "lastTimeDownloaded": "02.04.2018 14:55",
+                "md5": "9772063bf0d581b07ea4378f960e25d7"
+            },
+            "default.ps1": {
+                "path": "default.ps1",
+                "size": 1786,
+                "lastTimeDownloaded": "02.04.2018 14:56",
+                "md5": "76880b3edf603a3c8c6aac838586440f"
+            },
+            "build.ps1": {
+                "path": "build.ps1",
+                "size": 323,
+                "lastTimeDownloaded": "02.04.2018 14:55",
+                "md5": "867b13201a63ceb233d539d0bb9c69f6"
+            },
+            "chocolateyInstall.ps1": {
+                "path": "Install/chocolateyInstall.ps1",
+                "size": 630,
+                "lastTimeDownloaded": "02.04.2018 14:55",
+                "md5": "56ffe90cc35a41f56270d6a97b0a21e0"
+            }
+        }
+    },
+    "Tervis-Tumbler/InvokeOracleSQL": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "putterpanda/mimikittenz": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-mimikittenz.ps1": {
+                "path": "Invoke-mimikittenz.ps1",
+                "size": 21881,
+                "lastTimeDownloaded": "02.04.2018 13:44",
+                "md5": "bdb28c5a180a1649e6411301eb94452f"
+            }
+        }
+    },
+    "pentest-academy/windows-privilege-escalation": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Sherlock.ps1": {
+                "path": "Sherlock/Sherlock.ps1",
+                "size": 16949,
+                "lastTimeDownloaded": "02.04.2018 13:53",
+                "md5": "c4646ef90c480eb4425db8cc3265852a"
+            }
+        }
+    },
+    "sqlcollaborative/Invoke-SqlCmd2": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-SqlCmd2.Tests.ps1": {
+                "path": "Tests/Invoke-SqlCmd2.Tests.ps1",
+                "size": 1112,
+                "lastTimeDownloaded": "02.04.2018 14:20",
+                "md5": "abcc269b122dbee90d5dc2639dea369b"
+            },
+            "psake.ps1": {
+                "path": "psake.ps1",
+                "size": 3037,
+                "lastTimeDownloaded": "02.04.2018 14:20",
+                "md5": "f4eace590befd6589bab851401f23d5c"
+            },
+            "Invoke-SqlCmd2.ps1": {
+                "path": "Invoke-SqlCmd2/Public/Invoke-SqlCmd2.ps1",
+                "size": 29046,
+                "lastTimeDownloaded": "25.02.2019 17:42",
+                "md5": "5e500c20684de9c602a7ac4b08201397"
+            },
+            "build.ps1": {
+                "path": "build.ps1",
+                "size": 318,
+                "lastTimeDownloaded": "02.04.2018 14:20",
+                "md5": "c687977057e1bb23a378882337e76dab"
+            }
+        }
+    },
+    "rackerlabs/Invoke-RsCloudOfficeRequest": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "poshsecurity/ExploitingMS15-034InPowerShell": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "demo.ps1": {
+                "path": "demo.ps1",
+                "size": 3351,
+                "lastTimeDownloaded": "02.04.2018 13:51",
+                "md5": "856b49b4a29e1c90477d540b9b827a47"
+            }
+        }
+    },
+    "xor-function/fathomless": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "async-client.ps1": {
+                "path": "async-shell-handler/async-client.ps1",
+                "size": 33817,
+                "lastTimeDownloaded": "02.04.2018 13:47",
+                "md5": "45eeeee2eda91bcaefd089fb96ef0750"
+            },
+            "ps1-obfuscator.ps1": {
+                "path": "mkatz-obfuscator/ps1-obfuscator.ps1",
+                "size": 6287,
+                "lastTimeDownloaded": "02.04.2018 13:47",
+                "md5": "96d5a4fdaeb224f9a0a707e99742275b"
+            },
+            "b64-tcp-client.ps1": {
+                "path": "base64-tcp-shell/b64-tcp-client.ps1",
+                "size": 30824,
+                "lastTimeDownloaded": "02.04.2018 13:47",
+                "md5": "3517d97132343467c5a6ee05f1ef3a4d"
+            },
+            "tcp-client.ps1": {
+                "path": "gen-obfuscated/tcp-client.ps1",
+                "size": 29005,
+                "lastTimeDownloaded": "25.02.2019 16:25",
+                "md5": "4541176ab7737a923e654318cec5b2d3"
+            },
+            "ps12bat_v2.ps1": {
+                "path": "ps-batchfile/ps12bat_v2.ps1",
+                "md5": "a076945ffae2f9d5f22eb84f2e21f095",
+                "size": 9702,
+                "lastTimeDownloaded": "14.11.2018 09:29"
+            },
+            "rsh.ps1": {
+                "path": "ps-batchfile/rsh.ps1",
+                "md5": "08f4774ae95b8cdc946fc4213656952c",
+                "size": 3048,
+                "lastTimeDownloaded": "25.02.2019 16:25"
+            }
+        }
+    },
+    "K2/Scripting": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Out-SquarifiedTreeMap.ps1": {
+                "path": "Out-SquarifiedTreeMap.ps1",
+                "size": 25392,
+                "lastTimeDownloaded": "02.04.2018 14:02",
+                "md5": "3b59cf92aa8d1e026e9cdddeb1af46cd"
+            },
+            "Invoke-Parallel.ps1": {
+                "path": "Invoke-Parallel.ps1",
+                "size": 26713,
+                "lastTimeDownloaded": "02.04.2018 14:02",
+                "md5": "d3330087e101a4228dd9c25f32f5c36a"
+            },
+            "Test-AllVirtualMemory.ps1": {
+                "path": "Test-AllVirtualMemory.ps1",
+                "size": 103956,
+                "lastTimeDownloaded": "02.04.2018 14:02",
+                "md5": "c15c6c258e661b7462358078bdc3d521"
+            }
+        }
+    },
+    "EmpireProject/Empire": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-ReflectivePEInjection.ps1": {
+                "path": "data/module_source/management/Invoke-ReflectivePEInjection.ps1",
+                "size": 140184,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "1077bc72fba0813fd99ec9037096b252"
+            },
+            "Invoke-ExfilDataToGitHub.ps1": {
+                "path": "data/module_source/exfil/Invoke-ExfilDataToGitHub.ps1",
+                "size": 8528,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "dbc9668dc3e2a31b45a839795339d62e"
+            },
+            "Invoke-EnvBypass.ps1": {
+                "path": "data/module_source/privesc/Invoke-EnvBypass.ps1",
+                "size": 4215,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "6efd36e5d32375f419eb98ab27eeda34"
+            },
+            "Invoke-EventVwrBypass.ps1": {
+                "path": "data/module_source/privesc/Invoke-EventVwrBypass.ps1",
+                "size": 4764,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "ba042b3ae280f99e15d5994851b50be8"
+            },
+            "Invoke-NetRipper.ps1": {
+                "path": "data/module_source/collection/Invoke-NetRipper.ps1",
+                "size": 253593,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "f3fb156435897eb21d3872203c9d17c0"
+            },
+            "Invoke-FodHelperBypass.ps1": {
+                "path": "data/module_source/privesc/Invoke-FodHelperBypass.ps1",
+                "size": 4517,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "adb9e2859173d715cd2fea5aa930c7ae"
+            },
+            "Invoke-ExecuteMSBuild.ps1": {
+                "path": "data/module_source/lateral_movement/Invoke-ExecuteMSBuild.ps1",
+                "size": 10703,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "cfa6390b2fa5e7ce585478ec1ca498cd"
+            },
+            "Invoke-Inveigh.ps1": {
+                "path": "data/module_source/collection/Invoke-Inveigh.ps1",
+                "size": 192823,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "ec8f9da37fa6198edc988ffc7f83f665"
+            },
+            "Invoke-Tater.ps1": {
+                "path": "data/module_source/privesc/Invoke-Tater.ps1",
+                "size": 74010,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "fba84081352110029e59b515ee1933db"
+            },
+            "Exploit-EternalBlue.ps1": {
+                "path": "data/module_source/exploitation/Exploit-EternalBlue.ps1",
+                "size": 27080,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "411fe98bb74ac1bee45135b5154d94ce"
+            },
+            "Invoke-SDCLTBypass.ps1": {
+                "path": "data/module_source/privesc/Invoke-SDCLTBypass.ps1",
+                "size": 4580,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "aef4d2df304e5d8dc921d058b4322944"
+            },
+            "Invoke-WScriptBypassUAC.ps1": {
+                "path": "data/module_source/privesc/Invoke-WScriptBypassUAC.ps1",
+                "size": 7403,
+                "lastTimeDownloaded": "02.04.2018 13:42",
+                "md5": "2a96a5f39a9d7c529b6006de206cbdf5"
+            },
+            "Out-PowerShellLauncher.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-PowerShellLauncher.ps1",
+                "md5": "ff0fdeefa44ed048e8d6c81382a6c9d9",
+                "size": 96260,
+                "lastTimeDownloaded": "14.11.2018 09:17"
+            },
+            "Out-EncodedWhitespaceCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedWhitespaceCommand.ps1",
+                "md5": "6ab5205e3f45c2c72ff571f8feee62bd",
+                "size": 30787,
+                "lastTimeDownloaded": "14.11.2018 09:17"
+            },
+            "Out-SecureStringCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-SecureStringCommand.ps1",
+                "md5": "ffb57523806314a543e5931a1a91e6b6",
+                "size": 24820,
+                "lastTimeDownloaded": "14.11.2018 09:17"
+            },
+            "Out-ObfuscatedStringCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-ObfuscatedStringCommand.ps1",
+                "md5": "8654ff7a5165ecf0da5e743a719c6f07",
+                "size": 49142,
+                "lastTimeDownloaded": "14.11.2018 09:17"
+            },
+            "Out-EncodedAsciiCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedAsciiCommand.ps1",
+                "md5": "455962fd5d6e815a277c9e218d003559",
+                "size": 22983,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            },
+            "Out-EncodedHexCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedHexCommand.ps1",
+                "md5": "faa476621e05ce43b32600782ebf6a3e",
+                "size": 24173,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            },
+            "Out-EncodedOctalCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedOctalCommand.ps1",
+                "md5": "0ab72ae19f3690463474810d90205a22",
+                "size": 23941,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            },
+            "Out-EncodedBXORCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedBXORCommand.ps1",
+                "md5": "16afccdb20b95579120eaa6a1e5a9014",
+                "size": 24235,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            },
+            "Out-EncodedBinaryCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedBinaryCommand.ps1",
+                "md5": "01b1a4535ae06bde25ad3e9d84c82cc0",
+                "size": 25017,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            },
+            "PowerBreach.ps1": {
+                "path": "data/module_source/persistence/PowerBreach.ps1",
+                "md5": "c3da242e240c017a6651a41fe48b70ea",
+                "size": 20448,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            },
+            "Get-ComputerDetails.ps1": {
+                "path": "data/module_source/situational_awareness/host/Get-ComputerDetails.ps1",
+                "md5": "c119d832b66f7a05377495e10b2e5dcd",
+                "size": 17871,
+                "lastTimeDownloaded": "14.11.2018 09:18"
+            }
+        }
+    },
+    "gold1029/Empire": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "jaredhaight/Invoke-MetasploitPayload": {
+        "keywords": [
+            "exploit",
+            "invoke"
+        ],
+        "files": {
+            "Invoke-MetasploitPayload.ps1": {
+                "path": "Invoke-MetasploitPayload.ps1",
+                "size": 3350,
+                "lastTimeDownloaded": "02.04.2018 13:51",
+                "md5": "7452ad4b7770e749b6483a5900204feb"
+            }
+        }
+    },
+    "kiraly15/Invoke-Dan": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "enigma0x3/Invoke-LoginPrompt": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-LoginPrompt.ps1": {
+                "path": "Invoke-LoginPrompt.ps1",
+                "size": 1834,
+                "lastTimeDownloaded": "02.04.2018 14:18",
+                "md5": "bd388556294949c7d1478886f4865468"
+            }
+        }
+    },
+    "QuietusPlus/Invoke-ElevateScript": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ElevateScript.ps1": {
+                "path": "Invoke-ElevateScript.ps1",
+                "size": 2722,
+                "lastTimeDownloaded": "02.04.2018 14:47",
+                "md5": "26ef5ea0bffde70d71f2688a4cc2385d"
+            }
+        }
+    },
+    "b4ggio-su/Invoke-Pbind": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Pbind.ps1": {
+                "path": "Invoke-Pbind.ps1",
+                "size": 363890,
+                "lastTimeDownloaded": "02.04.2018 15:02",
+                "md5": "5521a6f092458d11918d3059574c502e"
+            }
+        }
+    },
+    "denmilu/WindowsExploits-": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "swizzlez/Invoke-EnumSecurityTools": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-EnumSecurityTools.ps1": {
+                "path": "Invoke-EnumSecurityTools.ps1",
+                "size": 3873,
+                "lastTimeDownloaded": "14.11.2018 10:43",
+                "md5": "cb42c9424ddd1a08264d8b26f574e6ff"
+            }
+        }
+    },
+    "writetobegin/invokemstest": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "teto2005/Invoke-Obfuscation": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Out-EncodedOctalCommand.ps1": {
+                "path": "Out-EncodedOctalCommand.ps1",
+                "size": 48648,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "abc792dfe6d2517ace85610135567e03"
+            },
+            "Out-EncodedBinaryCommand.ps1": {
+                "path": "Out-EncodedBinaryCommand.ps1",
+                "size": 50810,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "2b2b55540514cc8f478b7f8d4a9a5fb6"
+            },
+            "Out-EncodedHexCommand.ps1": {
+                "path": "Out-EncodedHexCommand.ps1",
+                "size": 49122,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "4b35332ae48f681c2d6a5ec1ca05de35"
+            },
+            "Out-SecureStringCommand.ps1": {
+                "path": "Out-SecureStringCommand.ps1",
+                "size": 50372,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "a93fa232538dc05f3e16eb17419d38bf"
+            },
+            "Out-ObfuscatedStringCommand.ps1": {
+                "path": "Out-ObfuscatedStringCommand.ps1",
+                "size": 100090,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "e9004df6e0a53c1f820ee942990cbc6d"
+            },
+            "Out-EncodedBXORCommand.ps1": {
+                "path": "Out-EncodedBXORCommand.ps1",
+                "size": 49266,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "399a75a64cb71255ad8979609816146d"
+            },
+            "Invoke-Obfuscation.ps1": {
+                "path": "Invoke-Obfuscation.ps1",
+                "size": 123443,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "b7108992afd27b82d86f039c55764d97"
+            },
+            "Out-EncodedWhitespaceCommand.ps1": {
+                "path": "Out-EncodedWhitespaceCommand.ps1",
+                "size": 62402,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "782a4f766a6ab683399e28786b9d16bb"
+            },
+            "Out-EncodedAsciiCommand.ps1": {
+                "path": "Out-EncodedAsciiCommand.ps1",
+                "size": 46724,
+                "lastTimeDownloaded": "02.05.2018 12:19",
+                "md5": "049436207d7aa4012078c4493c6b60c8"
+            }
+        }
+    },
+    "itadder/Invoke-FoodOrdering": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Chipolte.ps1": {
+                "path": "Invoke-Chipolte.ps1",
+                "size": 2812,
+                "lastTimeDownloaded": "02.04.2018 14:41",
+                "md5": "6816b51f3c6dffffbbb854b1adfc2f32"
+            }
+        }
+    },
+    "Kevin-Robertson/Invoke-TheHash": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-SMBExec.ps1": {
+                "path": "Invoke-SMBExec.ps1",
+                "size": 149645,
+                "lastTimeDownloaded": "14.11.2018 10:24",
+                "md5": "31b431df84eaf71848c8b172c40124ec"
+            },
+            "Invoke-TheHash.ps1": {
+                "path": "Invoke-TheHash.ps1",
+                "size": 12169,
+                "lastTimeDownloaded": "25.02.2019 17:18",
+                "md5": "0c4db17ed145310f336ab4887914f80c"
+            },
+            "Invoke-SMBClient.ps1": {
+                "path": "Invoke-SMBClient.ps1",
+                "size": 139584,
+                "lastTimeDownloaded": "14.11.2018 10:24",
+                "md5": "a87d59456f323bd373cb958273dfe8bb"
+            },
+            "Invoke-WMIExec.ps1": {
+                "path": "Invoke-WMIExec.ps1",
+                "size": 97878,
+                "lastTimeDownloaded": "14.11.2018 10:24",
+                "md5": "b63de834ab7cc8fcd0e71003c6786213"
+            },
+            "Invoke-SMBEnum.ps1": {
+                "path": "Invoke-SMBEnum.ps1",
+                "md5": "b4fcb52673089caf3e6e76379f2604d8",
+                "size": 160376,
+                "lastTimeDownloaded": "14.11.2018 10:24"
+            }
+        }
+    },
+    "rasta-mouse/Invoke-XMRig": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "sdoubleday/Invoke-Git": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "DropAndReAddSubmodules.ps1": {
+                "path": "DropAndReAddSubmodules.ps1",
+                "size": 4507,
+                "lastTimeDownloaded": "02.05.2018 12:20",
+                "md5": "a02af753cc4f31489444c14572a19b95"
+            },
+            "Invoke-Git.Tests.ps1": {
+                "path": "Invoke-Git.Tests.ps1",
+                "size": 1577,
+                "lastTimeDownloaded": "02.05.2018 12:20",
+                "md5": "2db4d8778dfd8ebdac2d93dc700342a3"
+            }
+        }
+    },
+    "ForensicITGuy/Invoke-PartyParrot": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PartyParrot.ps1": {
+                "path": "Invoke-PartyParrot.ps1",
+                "size": 8987,
+                "lastTimeDownloaded": "02.04.2018 14:34",
+                "md5": "b5c1a0f4b952c4ac5423cf5c34a0c591"
+            }
+        }
+    },
+    "topnjudo/Java_InvokeShellcode": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "gravejester/Invoke-CreateModuleHelpFile": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-CreateModuleHelpFile.ps1": {
+                "path": "Invoke-CreateModuleHelpFile.ps1",
+                "size": 12636,
+                "lastTimeDownloaded": "02.04.2018 14:26",
+                "md5": "5e490166711aa9a1e2843e033751ffeb"
+            }
+        }
+    },
+    "sirpsycho/Invoke-Kittenmittens": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "hypn0l/Invoke-Infogather": {
+        "keywords": [
+            "exploit",
+            "invoke"
+        ],
+        "files": {}
+    },
+    "HarmJ0y/Invoke-ADDefense": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ADDefense.ps1": {
+                "path": "Invoke-ADDefense.ps1",
+                "size": 14666,
+                "lastTimeDownloaded": "02.04.2018 14:24",
+                "md5": "fa6bb0b154569510448b7d65b62a8f35"
+            }
+        }
+    },
+    "LaurentPeyronnet/ExploitDashboard": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "CustomSqlRepository.ps1": {
+                "path": "src/Repository/CustomSqlRepository.ps1",
+                "size": 5520,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "4140b6298d1a667e3701220ab5661c39"
+            },
+            "AbstractRepository.ps1": {
+                "path": "src/Repository/AbstractRepository.ps1",
+                "size": 6312,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "362132d0cb5d14334815edea096bb5df"
+            },
+            "ExpDash-IISLog_config.ps1": {
+                "path": "config/ExpDash-IISLog_config.ps1",
+                "size": 17274,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "5e056038fa8afd9824e7bfd9752a2537"
+            },
+            "LogParser_Lib.ps1": {
+                "path": "lib/LogParser_Lib.ps1",
+                "size": 13650,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "ed79b8f76115e4fc19090a94dff7cacf"
+            },
+            "ExploitDashboardBuilder.ps1": {
+                "path": "src/ExploitDashboardBuilder.ps1",
+                "size": 5484,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "f753aeaf36b2fe4f4a1158a605ebd185"
+            },
+            "IISLogRepository.ps1": {
+                "path": "src/Repository/IISLogRepository.ps1",
+                "size": 5946,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "b2239583062f1dba59fc71c95c8cff18"
+            },
+            "ExpDash_config.ps1": {
+                "path": "config/ExpDash_config.ps1",
+                "size": 944,
+                "lastTimeDownloaded": "02.04.2018 13:55",
+                "md5": "1845a53d22a49c0c1f5ec4b7d0d7a116"
+            }
+        }
+    },
+    "hackernix/ExploitDnsChanger": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "ExploitDnsChanger.ps1": {
+                "path": "ExploitDnsChanger.ps1",
+                "size": 895,
+                "lastTimeDownloaded": "02.04.2018 13:56",
+                "md5": "099bdc9bd7264b3ac1a113473da8e607"
+            }
+        }
+    },
+    "WindowsExploits/Exploits": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "CVE-2016-7255.ps1": {
+                "path": "CVE-2016-7255/CVE-2016-7255.ps1",
+                "size": 25798,
+                "lastTimeDownloaded": "02.04.2018 13:41",
+                "md5": "9888ede4cd12681cdcc929a7038a033a"
+            }
+        }
+    },
+    "mkellerman/PSRunAs": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ExpressionAs_Example.ps1": {
+                "path": "Invoke-ExpressionAs_Example.ps1",
+                "size": 660,
+                "lastTimeDownloaded": "02.05.2018 12:06",
+                "md5": "22d212421e027076169f05d940db3868"
+            },
+            "Invoke-ExpressionAs.ps1": {
+                "path": "Invoke-ScheduledJob/Invoke-ExpressionAs.ps1",
+                "size": 6092,
+                "lastTimeDownloaded": "14.11.2018 11:09",
+                "md5": "326d929e44695e889cf336560cf04b4f"
+            },
+            "Start-ProcessAsUser.ps1": {
+                "path": "Start-ProcessAsUser/Start-ProcessAsUser.ps1",
+                "size": 4005,
+                "lastTimeDownloaded": "02.05.2018 12:06",
+                "md5": "adea14972cfa99e0f3ef12cbb3bf121e"
+            },
+            "Invoke-ScheduledJob.ps1": {
+                "path": "Invoke-ScheduledJob/Invoke-ScheduledJob.ps1",
+                "size": 1283,
+                "lastTimeDownloaded": "02.05.2018 12:06",
+                "md5": "73d672f402f500c4b18fabe34a9cea4d"
+            },
+            "Invoke-RunAs.ps1": {
+                "path": "Invoke-RunAs/Invoke-RunAs.ps1",
+                "size": 4797,
+                "lastTimeDownloaded": "02.05.2018 12:06",
+                "md5": "e57e3e39b30ceb66b6de60dadd1a0bda"
+            },
+            "Copy-File.ps1": {
+                "path": "Copy-File/Copy-File.ps1",
+                "size": 314,
+                "lastTimeDownloaded": "02.05.2018 12:06",
+                "md5": "c8e55ba18c999f426076787dbe81ae86"
+            },
+            "Copy-Function.ps1": {
+                "path": "Copy-Function/Copy-Function.ps1",
+                "size": 244,
+                "lastTimeDownloaded": "02.05.2018 12:06",
+                "md5": "e26a8cb2f0509d8a5638b813aea29f48"
+            }
+        }
+    },
+    "mkellerman/Invoke-PSSession": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "devblackops/POSHOrigin": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "AppVeyor.Pester.ps1": {
+                "path": "Tests/AppVeyor.Pester.ps1",
+                "size": 2376,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "5f39dc0fe5c1b1a0f29b211896ecebaf"
+            },
+            "psake.ps1": {
+                "path": "psake.ps1",
+                "size": 2817,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "6a2ba2ab9cddd18940b848a51db34605"
+            },
+            "_CompileConfig.ps1": {
+                "path": "POSHOrigin/Internal/_CompileConfig.ps1",
+                "size": 4457,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "bf96678494b734552e5da27e08641f2b"
+            },
+            "Meta.Tests.ps1": {
+                "path": "Tests/Meta.Tests.ps1",
+                "size": 9750,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "8b79fb76a8f5dda7735df8d85d0b2c65"
+            },
+            "build.ps1": {
+                "path": "build.ps1",
+                "size": 2070,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "edf0d8220575f6b9da4de92bfa792997"
+            },
+            "Resolve.ps1": {
+                "path": "POSHOrigin/Resolvers/ProtectedData/Resolve.ps1",
+                "size": 2307,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "1122a437fa9610ceda05574aa5eabdf2"
+            },
+            "_InvokeDscConfiguration.ps1": {
+                "path": "POSHOrigin/Internal/_InvokeDscConfiguration.ps1",
+                "size": 7996,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "979437b02c45a7315fb58ebb0ba0a0f2"
+            },
+            "Invoke.ps1": {
+                "path": "POSHOrigin/DSCResources/POSHOrigin_POSHFolder/Invoke.ps1",
+                "size": 2029,
+                "lastTimeDownloaded": "14.11.2018 11:15",
+                "md5": "baf00b57191de39a2f2172d81eb1016a"
+            },
+            "Get-POSHDefault.ps1": {
+                "path": "POSHOrigin/Functions/Get-POSHDefault.ps1",
+                "size": 2275,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "5026347ed0a18194458ad08f942fcaae"
+            },
+            "Invoke-POSHOrigin.ps1": {
+                "path": "POSHOrigin/Functions/Invoke-POSHOrigin.ps1",
+                "size": 6560,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "4d04ca4d17c812825281b79d0186fe0f"
+            },
+            "_WriteScreen.ps1": {
+                "path": "POSHOrigin/Internal/_WriteScreen.ps1",
+                "size": 2208,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "e8c04a3bfd267c7ebf795d651344f6af"
+            },
+            "Help.tests.ps1": {
+                "path": "Tests/Help.tests.ps1",
+                "size": 4771,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "8668d364c0efe41c3d36b8d3e48ac0ef"
+            },
+            "_GetDSCResourcePropertyHash.ps1": {
+                "path": "POSHOrigin/Internal/_GetDSCResourcePropertyHash.ps1",
+                "size": 2916,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "251c17045169aa33b125e3e2916ad9f7"
+            },
+            "Invoke-POSHOriginNEW.ps1": {
+                "path": "POSHOrigin/Functions/Invoke-POSHOriginNEW.ps1",
+                "size": 9199,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "15d84ada260cfceff254fcfebed24392"
+            }
+        }
+    },
+    "dfinke/PowerShellTranslate": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "DeleteAndTranslate.ps1": {
+                "path": "DeleteAndTranslate.ps1",
+                "size": 240,
+                "lastTimeDownloaded": "02.04.2018 14:46",
+                "md5": "b1bb7ef6ca878312485f978edd07db29"
+            },
+            "Translation.ps1": {
+                "path": "Translation.ps1",
+                "size": 3070,
+                "lastTimeDownloaded": "02.04.2018 14:46",
+                "md5": "8dc64ab188a224732fe03dfdadc9af50"
+            },
+            "Translate.ps1": {
+                "path": "Translate.ps1",
+                "size": 239,
+                "lastTimeDownloaded": "02.04.2018 14:46",
+                "md5": "440d6c6b1f9c6c79f3399ebbe0f2eaf1"
+            }
+        }
+    },
+    "kdsnice/Invoke-Plink": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "RamblingCookieMonster/Invoke-Parallel": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Parallel.Tests.ps1": {
+                "path": "Tests/Invoke-Parallel.Tests.ps1",
+                "size": 3434,
+                "lastTimeDownloaded": "02.04.2018 14:14",
+                "md5": "cdd38bd6947130cbc1cee8b9b145eaf5"
+            },
+            "appveyor.pester.ps1": {
+                "path": "Tests/appveyor.pester.ps1",
+                "size": 2795,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "bf06d2c196b594b4b94959842e275648"
+            },
+            "Invoke-Parallel.ps1": {
+                "path": "Invoke-Parallel/Invoke-Parallel.ps1",
+                "size": 26844,
+                "lastTimeDownloaded": "14.11.2018 10:30",
+                "md5": "535e28207d9ee39f1a4203ad977d4762"
+            },
+            "build.ps1": {
+                "path": "build.ps1",
+                "size": 168,
+                "lastTimeDownloaded": "02.04.2018 14:15",
+                "md5": "4d383a56fb13fd8051be726e34e54b05"
+            }
+        }
+    },
+    "Appease/InvokeDevOp": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "gold1029/Invoke-ADDefense": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "adamdriscoll/powershim": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "powershim.examples.ps1": {
+                "path": "powershim.examples.ps1",
+                "size": 150,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "34aa4e632c20e31a56cfcb665808c1c5"
+            },
+            "powershim.performance.ps1": {
+                "path": "powershim.performance.ps1",
+                "size": 283,
+                "lastTimeDownloaded": "02.04.2018 14:32",
+                "md5": "9ee3fe9fa5ac277806b1d497d3d9ca47"
+            }
+        }
+    },
+    "leasemeng/invokeshell": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "invoke.ps1": {
+                "path": "invoke.ps1",
+                "size": 29339,
+                "lastTimeDownloaded": "02.04.2018 14:57",
+                "md5": "ef7b818e4557cc56adaf52fadfb35b41"
+            }
+        }
+    },
+    "y11en/invokethehash": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "qetza/vsts-invokebuild-task": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Build.ps1": {
+                "path": "task/Invoke-Build.ps1",
+                "size": 19400,
+                "lastTimeDownloaded": "14.11.2018 11:20",
+                "md5": "1e7085abb431e1102bc9380595d8febc"
+            },
+            "run-invokebuild.ps1": {
+                "path": "task/run-invokebuild.ps1",
+                "size": 1208,
+                "lastTimeDownloaded": "02.04.2018 14:44",
+                "md5": "c6d62637797bcd003275e8c40e6ff450"
+            },
+            "Build-Parallel.ps1": {
+                "path": "task/ps_modules/InvokeBuild/Build-Parallel.ps1",
+                "size": 5880,
+                "lastTimeDownloaded": "02.05.2018 12:04",
+                "md5": "d00d01a2b56b087bdf33d6ad4989cdf6"
+            },
+            "Build-Checkpoint.ps1": {
+                "path": "task/ps_modules/InvokeBuild/Build-Checkpoint.ps1",
+                "size": 2838,
+                "lastTimeDownloaded": "02.05.2018 12:04",
+                "md5": "630ea81b99ace12ba7c3271e1e138d7e"
+            },
+            "invokebuild.ps1": {
+                "path": "task/invokebuild.ps1",
+                "size": 1196,
+                "lastTimeDownloaded": "02.05.2018 12:04",
+                "md5": "aec79fb79a25cdb0baf981c73541c081"
+            }
+        }
+    },
+    "mosserlee/PSClient-for-XML-RPC": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "RPCMethod.Test.ps1": {
+                "path": "Test/RPCMethod.Test.ps1",
+                "size": 272,
+                "lastTimeDownloaded": "02.04.2018 14:33",
+                "md5": "67284dc478a71843eb22340146f8fffb"
+            }
+        }
+    },
+    "Nodocify/psexec-block": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "kafkaesqu3/Invoke-Survey": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Survey.ps1": {
+                "path": "Invoke-Survey.ps1",
+                "size": 3129,
+                "lastTimeDownloaded": "02.05.2018 12:26",
+                "md5": "c0397d90f48094d402c6472be5143ce4"
+            }
+        }
+    },
+    "danielbohannon/Invoke-DOSfuscation": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-DOSfuscation.tests.ps1": {
+                "path": "Tests/Invoke-DOSfuscation.tests.ps1",
+                "size": 26248,
+                "lastTimeDownloaded": "02.04.2018 14:17",
+                "md5": "e15ea848860a5314b07ef061025fb4f5"
+            }
+        }
+    },
+    "Veil-Framework/Veil-Pillage": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-Shellcode.ps1": {
+                "path": "data/PowerSploit/Invoke-Shellcode.ps1",
+                "size": 31732,
+                "lastTimeDownloaded": "02.04.2018 13:45",
+                "md5": "baf3a6d39d763d30bb75e0a1b573fe7b"
+            },
+            "Invoke-ReflectivePEInjection.ps1": {
+                "path": "data/PowerSploit/Invoke-ReflectivePEInjection.ps1",
+                "size": 136802,
+                "lastTimeDownloaded": "02.04.2018 13:45",
+                "md5": "732815cd903d2eac5240582724c3c289"
+            },
+            "powerview.ps1": {
+                "path": "data/misc/powerview.ps1",
+                "size": 156617,
+                "lastTimeDownloaded": "02.04.2018 13:45",
+                "md5": "e07232171211ca5e9c79be9039feb488"
+            },
+            "Get-Keystrokes.ps1": {
+                "path": "data/PowerSploit/Get-Keystrokes.ps1",
+                "size": 13003,
+                "lastTimeDownloaded": "02.04.2018 13:45",
+                "md5": "1d0a8a981276d6b1f423d7c35d47875f"
+            },
+            "Invoke-ShellcodeMSIL.ps1": {
+                "path": "data/PowerSploit/Invoke-ShellcodeMSIL.ps1",
+                "size": 11842,
+                "lastTimeDownloaded": "02.04.2018 13:45",
+                "md5": "5b9a7a02f12a56f3b5dd9ca7bdbb6858"
+            }
+        }
+    },
+    "whiskey7/DDE": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "potatoqualitee/scripts": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Import-CSVtoSQL.ps1": {
+                "path": "Import-CSVtoSQL.ps1",
+                "size": 9942,
+                "lastTimeDownloaded": "02.04.2018 14:48",
+                "md5": "b9f2604526167ed99ddf227090feba58"
+            },
+            "Invoke-Locate.ps1": {
+                "path": "Invoke-Locate.ps1",
+                "size": 38150,
+                "lastTimeDownloaded": "02.04.2018 14:48",
+                "md5": "03babca842776377385b349e0329cc5a"
+            }
+        }
+    },
+    "ThoughtfulDev/PSImage-Delivery": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "payload.ps1": {
+                "path": "res/payload.ps1",
+                "size": 79,
+                "lastTimeDownloaded": "02.04.2018 14:36",
+                "md5": "c8b89096eaf850695ee58d7c23ba1b82"
+            },
+            "Invoke-PSImage.ps1": {
+                "path": "res/Invoke-PSImage.ps1",
+                "size": 6007,
+                "lastTimeDownloaded": "02.05.2018 12:11",
+                "md5": "28f45511617c711171df771f5de1bc17"
+            }
+        }
+    },
+    "Hackplayers/Empire-mod-Hackplayers": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "hostrecon.ps1": {
+                "path": "data/module_source/situational_awareness/host/hostrecon.ps1",
+                "size": 21759,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "ab88402616e85e86520c83463787cca4"
+            },
+            "Get-Keystrokes.ps1": {
+                "path": "data/module_source/collection/Get-Keystrokes.ps1",
+                "size": 9250,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "9125e47efc9ff63ed29701ad2a245dfd"
+            },
+            "New-HoneyHash.ps1": {
+                "path": "data/module_source/management/New-HoneyHash.ps1",
+                "size": 3503,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "33bea88d3bcc484a3009ad97951d0e79"
+            },
+            "doublepulsar.ps1": {
+                "path": "data/module_source/code_execution/doublepulsar.ps1",
+                "size": 163219,
+                "lastTimeDownloaded": "14.11.2018 09:27",
+                "md5": "de377fd799a955a3c113578525baa981"
+            },
+            "Invoke-BackdoorLNK.ps1": {
+                "path": "data/module_source/persistence/Invoke-BackdoorLNK.ps1",
+                "size": 3916,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "98dbcf17dc528c0ade7e4bb435c77c8c"
+            },
+            "Exploit-Jenkins.ps1": {
+                "path": "data/module_source/exploitation/Exploit-Jenkins.ps1",
+                "size": 2420,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "4b0375aa0d799f65807ae44ec81293cd"
+            },
+            "Invoke-ReflectivePEInjection.ps1": {
+                "path": "data/module_source/code_execution/Invoke-ReflectivePEInjection.ps1",
+                "size": 155778,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "c0be42397c451eeead60ee9dc31ba41e"
+            },
+            "Get-FoxDump.ps1": {
+                "path": "data/module_source/collection/Get-FoxDump.ps1",
+                "size": 32231,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "9bf0df45e3330d17378b37efd7e9d3c7"
+            },
+            "Invoke-NetRipper.ps1": {
+                "path": "data/module_source/collection/Invoke-NetRipper.ps1",
+                "size": 253592,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "fc53afc9b079d71dde9ff54b5b93fad3"
+            },
+            "Invoke-Inveigh.ps1": {
+                "path": "data/module_source/collection/Invoke-Inveigh.ps1",
+                "size": 86559,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "c7090077cce88d8a06cc3cdc626f471e"
+            },
+            "Invoke-VoiceTroll.ps1": {
+                "path": "data/module_source/fun/Invoke-VoiceTroll.ps1",
+                "size": 357,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "a9e2bc4f24826eeb3669fed04a248b63"
+            },
+            "MailRaider.ps1": {
+                "path": "data/module_source/management/MailRaider.ps1",
+                "size": 34733,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "569b285d2d72eb5878e3a3516d122060"
+            },
+            "Invoke-MetasploitPayload.ps1": {
+                "path": "data/module_source/code_execution/Invoke-MetasploitPayload.ps1",
+                "size": 3229,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "e5554e4acd72061ab09c4f22367d0252"
+            },
+            "Invoke-WScriptBypassUAC.ps1": {
+                "path": "data/module_source/privesc/Invoke-WScriptBypassUAC.ps1",
+                "size": 7946,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "4929621da17742bfd26cd09c7713c01d"
+            },
+            "Exploit-JBoss.ps1": {
+                "path": "data/module_source/exploitation/Exploit-JBoss.ps1",
+                "size": 4291,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "8a140bd83cb70e550eaf73fcff416e15"
+            },
+            "Get-System.ps1": {
+                "path": "data/module_source/privesc/Get-System.ps1",
+                "size": 26433,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "ff39477c4a46b90593be292d7c1eb2a0"
+            },
+            "Invoke-TokenManipulation.ps1": {
+                "path": "data/module_source/credentials/Invoke-TokenManipulation.ps1",
+                "size": 95360,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "42dfab4ade95cf782c765bf3e4a3b90a"
+            },
+            "keylogger-selective.ps1": {
+                "path": "data/module_source/credentials/keylogger-selective.ps1",
+                "size": 17523,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "067cb6cd7f2268852523b868cb640601"
+            },
+            "Invoke-MS16032.ps1": {
+                "path": "data/module_source/privesc/Invoke-MS16032.ps1",
+                "size": 13789,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "a63c52d46cb33e57f1f17beaa733ea65"
+            },
+            "powercat.ps1": {
+                "path": "data/module_source/management/powercat.ps1",
+                "size": 38334,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "8325c6f826d9420d070390cd9fa3137e"
+            },
+            "Invoke-EventVwrBypass.ps1": {
+                "path": "data/module_source/privesc/Invoke-EventVwrBypass.ps1",
+                "size": 3758,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "c04e5efbd747765256ed8cd4e8a02cad"
+            },
+            "Invoke-DllInjection.ps1": {
+                "path": "data/module_source/code_execution/Invoke-DllInjection.ps1",
+                "size": 12434,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "edd54ff97754efcd1761e18615589b9c"
+            },
+            "Invoke-Shellcode.ps1": {
+                "path": "data/module_source/code_execution/Invoke-Shellcode.ps1",
+                "size": 33405,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "ce83a04be1473f044cb7f1a31d714f5b"
+            },
+            "Sherlock.ps1": {
+                "path": "data/module_source/privesc/Sherlock.ps1",
+                "size": 14421,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "5d99f8e99e759dbdbcdf86594ea5c230"
+            },
+            "Invoke-PsExec.ps1": {
+                "path": "data/module_source/lateral_movement/Invoke-PsExec.ps1",
+                "size": 16970,
+                "lastTimeDownloaded": "02.04.2018 13:49",
+                "md5": "26d059738bba19a59da41b1cf92c25e6"
+            },
+            "Out-PowerShellLauncher.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-PowerShellLauncher.ps1",
+                "md5": "b05fea1afdbfa4eab0dcd8e5c0114fb2",
+                "size": 96254,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-SecureStringCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-SecureStringCommand.ps1",
+                "md5": "27f0591d17ef46d31b6316712b5f4fd8",
+                "size": 24816,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-ObfuscatedStringCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-ObfuscatedStringCommand.ps1",
+                "md5": "f0fdf786e23efc97d17d1a9ef09c7802",
+                "size": 49143,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-EncodedAsciiCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedAsciiCommand.ps1",
+                "md5": "0689441e0b1848b10dfa0371502c47b6",
+                "size": 23116,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-EncodedHexCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedHexCommand.ps1",
+                "md5": "87f4372d3f3c783502939df31eac0745",
+                "size": 24306,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-EncodedOctalCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedOctalCommand.ps1",
+                "md5": "5e07dc3adb2961d5f2ca6a8a09510d61",
+                "size": 24074,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-EncodedBXORCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedBXORCommand.ps1",
+                "md5": "afbeba427f7f53c83b7079de7d155e77",
+                "size": 24368,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Out-EncodedBinaryCommand.ps1": {
+                "path": "lib/powershell/Invoke-Obfuscation/Out-EncodedBinaryCommand.ps1",
+                "md5": "98cc98ce6c68e596f649e2a92fb264af",
+                "size": 25150,
+                "lastTimeDownloaded": "14.11.2018 09:26"
+            },
+            "Capcom-Elevatepid.ps1": {
+                "path": "data/module_source/privesc/Capcom-Elevatepid.ps1",
+                "md5": "e6e4f658fb3371d537f39b73c037188f",
+                "size": 15355,
+                "lastTimeDownloaded": "14.11.2018 09:27"
+            },
+            "Invoke-Mimikittenz.ps1": {
+                "path": "data/module_source/credentials/Invoke-Mimikittenz.ps1",
+                "md5": "5d9692d593b9d65924460b25583e6b52",
+                "size": 21645,
+                "lastTimeDownloaded": "14.11.2018 09:27"
+            }
+        }
+    },
+    "Kevin-Robertson/Tater": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Tater.ps1": {
+                "path": "Tater.ps1",
+                "size": 76641,
+                "lastTimeDownloaded": "02.04.2018 13:46",
+                "md5": "fa29e82e5b5fd68d444c3ed9e955381c"
+            }
+        }
+    },
+    "doxic/dhcp-exploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "mgreen27/Powershell-IR": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ForensicCopy.ps1": {
+                "path": "Invoke-ForensicCopy.ps1",
+                "size": 4489,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "34c0efedabe70aeebe6eb5e976ed7843"
+            },
+            "Get-Atom.ps1": {
+                "path": "Content/ACE/Get-Atom.ps1",
+                "size": 23495,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "abf91462f77f06564b4b11192cbd8aa5"
+            },
+            "08Get-ArpCache.ps1": {
+                "path": "Content/08Get-ArpCache.ps1",
+                "size": 27161,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "622ff340b6ed3341fbed762c25ae301c"
+            },
+            "10Get-SecurityPackage.ps1": {
+                "path": "Content/10Get-SecurityPackage.ps1",
+                "size": 35285,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "d3b7a943f3602bad1c650734c36ada92"
+            },
+            "Get-Forensicating.ps1": {
+                "path": "Get-Forensicating.ps1",
+                "size": 3472,
+                "lastTimeDownloaded": "14.11.2018 10:47",
+                "md5": "e835fbd1d534c1ba4d9697194d135415"
+            },
+            "03Get-NetworkConnection.ps1": {
+                "path": "Content/03Get-NetworkConnection.ps1",
+                "size": 38446,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "3ad79c2203443fc7cfcd701c1b8f3d63"
+            },
+            "BitsParser.ps1": {
+                "path": "Content/Other/BitsParser.ps1",
+                "size": 30072,
+                "lastTimeDownloaded": "02.05.2018 11:53",
+                "md5": "6f8f1e0a01d39a0bd8e35df7dd723696"
+            },
+            "07Get-LogonSession.ps1": {
+                "path": "Content/07Get-LogonSession.ps1",
+                "size": 37549,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "2d6560d4c8bbca17293ce0dc81953eac"
+            },
+            "11Get-SimpleNamedPipe.ps1": {
+                "path": "Content/11Get-SimpleNamedPipe.ps1",
+                "size": 2368,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "fe2a6f2b4bbc2da62603a27644331845"
+            },
+            "BitsDetection.ps1": {
+                "path": "Content/Other/BitsDetection.ps1",
+                "size": 4389,
+                "lastTimeDownloaded": "02.05.2018 11:53",
+                "md5": "0a163c5bfb1e4269b9b9dcb61e52c6e5"
+            },
+            "Get-KerberosTicketGrantingTicket.ps1": {
+                "path": "Content/not in use/Get-KerberosTicketGrantingTicket.ps1",
+                "size": 96367,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "cebee3caa53c71216787f574c69c3df7"
+            },
+            "Get-InjectedThread.ps1": {
+                "path": "Content/not in use/Get-InjectedThread.ps1",
+                "size": 78615,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "0490035b007d7f490bb397b8dfd18993"
+            },
+            "Get-Powerforensics.ps1": {
+                "path": "Get-Powerforensics.ps1",
+                "size": 3699,
+                "lastTimeDownloaded": "14.11.2018 10:47",
+                "md5": "1b98c46c1336c434e1895afb3f92230f"
+            },
+            "Networkinfo-PS.ps1": {
+                "path": "Content/not in use/Networkinfo-PS.ps1",
+                "size": 9710,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "eedaab1852d74fdc0bb1df3ac8e8ef07"
+            },
+            "05Get-AccessToken.ps1": {
+                "path": "Content/05Get-AccessToken.ps1",
+                "size": 95346,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "2114a44a550bae2b7c31a861d942e92a"
+            },
+            "09Get-PSAutorun.ps1": {
+                "path": "Content/09Get-PSAutorun.ps1",
+                "size": 117465,
+                "lastTimeDownloaded": "02.04.2018 14:30",
+                "md5": "d4ce4f62ab592128c6dfbbfad4c76e66"
+            },
+            "BAMParser.ps1": {
+                "path": "Content/Other/BAMParser.ps1",
+                "size": 5278,
+                "lastTimeDownloaded": "02.05.2018 11:53",
+                "md5": "4ae505935e5284296be9ae9911fe3a48"
+            },
+            "02Get-InjectedThread.ps1": {
+                "path": "Content/02Get-InjectedThread.ps1",
+                "size": 74905,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "d22f026d58f92daca9c5e93c141798a4"
+            },
+            "06Get-KerberosTicketCache.ps1": {
+                "path": "Content/06Get-KerberosTicketCache.ps1",
+                "size": 72001,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "ced6184ce406156aa5bc6d2e139be08c"
+            },
+            "Get-WMIEventConsumers.ps1": {
+                "path": "Content/ASEP/Get-WMIEventConsumers.ps1",
+                "md5": "200f06c7fd305ede3bb9c188b78010a4",
+                "size": 22752,
+                "lastTimeDownloaded": "14.11.2018 10:48"
+            },
+            "Get-AVProduct.ps1": {
+                "path": "Content/Configuration/Get-AVProduct.ps1",
+                "md5": "1096accad83bc8848673941620701cff",
+                "size": 221,
+                "lastTimeDownloaded": "14.11.2018 10:48"
+            }
+        }
+    },
+    "danielbohannon/Invoke-Obfuscation": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Obfuscation.ps1": {
+                "path": "Invoke-Obfuscation.ps1",
+                "size": 131795,
+                "lastTimeDownloaded": "25.02.2019 17:16",
+                "md5": "8b5c6452b7348b95cede504aff4801f9"
+            },
+            "Out-CompressedCommand.ps1": {
+                "path": "Out-CompressedCommand.ps1",
+                "size": 40532,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "700686bc88c9a567d9acd119c899b66d"
+            },
+            "Out-EncodedOctalCommand.ps1": {
+                "path": "Out-EncodedOctalCommand.ps1",
+                "size": 48866,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "acdc04fcc22d22d7709d96faba69d154"
+            },
+            "Out-EncodedBinaryCommand.ps1": {
+                "path": "Out-EncodedBinaryCommand.ps1",
+                "size": 51028,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "2f79915055e8d37e4f0fec8f643dd312"
+            },
+            "Out-EncodedHexCommand.ps1": {
+                "path": "Out-EncodedHexCommand.ps1",
+                "size": 49340,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "dce70be192ba333c45db28f685b9b4f6"
+            },
+            "Out-SecureStringCommand.ps1": {
+                "path": "Out-SecureStringCommand.ps1",
+                "size": 50590,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "f6f6614d96adfc6f2e62859e35f6597c"
+            },
+            "Out-ObfuscatedAst.ps1": {
+                "path": "Out-ObfuscatedAst.ps1",
+                "size": 258617,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "2692ec7faa1ad74e6be9735ae74c6098"
+            },
+            "Out-ObfuscatedStringCommand.ps1": {
+                "path": "Out-ObfuscatedStringCommand.ps1",
+                "size": 100300,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "c293b1d413ccb87276f735cbbf6d8b9d"
+            },
+            "Out-EncodedBXORCommand.ps1": {
+                "path": "Out-EncodedBXORCommand.ps1",
+                "size": 49484,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "c6e276112448ff29f100850df3492ef4"
+            },
+            "Out-EncodedSpecialCharOnlyCommand.ps1": {
+                "path": "Out-EncodedSpecialCharOnlyCommand.ps1",
+                "size": 51672,
+                "lastTimeDownloaded": "02.04.2018 14:12",
+                "md5": "3ce5763ed5936025e400395aa961ec02"
+            },
+            "Out-PowerShellLauncher.ps1": {
+                "path": "Out-PowerShellLauncher.ps1",
+                "size": 195774,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "c7090a89c14d17da417e15de7c4852c1"
+            },
+            "Out-EncodedWhitespaceCommand.ps1": {
+                "path": "Out-EncodedWhitespaceCommand.ps1",
+                "size": 62620,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "22acc0e6a966c25843c1fb52f206b933"
+            },
+            "Out-EncodedAsciiCommand.ps1": {
+                "path": "Out-EncodedAsciiCommand.ps1",
+                "size": 46942,
+                "lastTimeDownloaded": "02.04.2018 14:11",
+                "md5": "d11dcc46c12446ed85259c06f5081ac4"
+            },
+            "Out-ObfuscatedTokenCommand.ps1": {
+                "path": "Out-ObfuscatedTokenCommand.ps1",
+                "size": 213452,
+                "lastTimeDownloaded": "02.04.2018 14:12",
+                "md5": "7c4ed6d5fb78f02f059363e7afaf2de0"
+            }
+        }
+    },
+    "Tervis-Tumbler/InvokeSQLAnywhereSQL": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "Duffney/InvokeBuildExample": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Analyze.build.ps1": {
+                "path": ".build/Analyze.build.ps1",
+                "size": 519,
+                "lastTimeDownloaded": "02.04.2018 14:54",
+                "md5": "c5fb2ca2a3b07cf9c55919d27993fd75"
+            },
+            "PublishToPSGallery.ps1": {
+                "path": ".build/PublishToPSGallery.ps1",
+                "size": 527,
+                "lastTimeDownloaded": "02.04.2018 14:54",
+                "md5": "6e463693a924356b75d124cbb38643a3"
+            },
+            "UpdateModuleManifest.ps1": {
+                "path": ".build/UpdateModuleManifest.ps1",
+                "size": 925,
+                "lastTimeDownloaded": "02.04.2018 14:54",
+                "md5": "700edbe30f0da63fdc5e456575ed2b3b"
+            },
+            ".build.ps1": {
+                "path": ".build.ps1",
+                "size": 2596,
+                "lastTimeDownloaded": "02.04.2018 14:54",
+                "md5": "e32a5d095426ec1cf4383e27aed4616e"
+            },
+            "Get-PublicFunction.Tests.ps1": {
+                "path": "Tests/Public/Get-PublicFunction.Tests.ps1",
+                "size": 305,
+                "lastTimeDownloaded": "02.04.2018 14:54",
+                "md5": "50f652c1e0b61d6071cc1fb2caadbc9f"
+            },
+            "Test.build.ps1": {
+                "path": ".build/Test.build.ps1",
+                "size": 700,
+                "lastTimeDownloaded": "02.04.2018 14:54",
+                "md5": "643d56a4d35f36de576479369ce17bb9"
+            }
+        }
+    },
+    "denmilu/Exploits-windows": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "vysec/Invoke-ProcessScan": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ProcessScan.ps1": {
+                "path": "Invoke-ProcessScan.ps1",
+                "size": 344981,
+                "lastTimeDownloaded": "02.04.2018 14:22",
+                "md5": "cce4d27feeed9c8d6bb8a4a270d7527c"
+            }
+        }
+    },
+    "kiraly15/Invoke-Tcpconnect": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Tcpconnect.ps1": {
+                "path": "Invoke-Tcpconnect.ps1",
+                "size": 2892,
+                "lastTimeDownloaded": "02.05.2018 12:25",
+                "md5": "a10c40ea1e4f4b17d2bb42304bc4bb9b"
+            }
+        }
+    },
+    "mmattes/Invoke-Install": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "install.ps1": {
+                "path": "Examples/install.ps1",
+                "size": 965,
+                "lastTimeDownloaded": "02.04.2018 14:43",
+                "md5": "8a6ebc6586ea196c52f3c1fa517216c8"
+            },
+            "Invoke-Install.tests.ps1": {
+                "path": "Tests/Invoke-Install.tests.ps1",
+                "size": 565,
+                "lastTimeDownloaded": "02.04.2018 14:43",
+                "md5": "a89325a2e86626e4d682359ad1c14e88"
+            },
+            "Invoke-Install.ps1": {
+                "path": "Source/Invoke-Install/Invoke-Install.ps1",
+                "size": 2291,
+                "lastTimeDownloaded": "02.04.2018 14:43",
+                "md5": "94c34a9b910e9eb33bfb8b65a40f7d1c"
+            },
+            "deploy.ps1": {
+                "path": "Build/deploy.ps1",
+                "size": 1498,
+                "lastTimeDownloaded": "02.04.2018 14:43",
+                "md5": "e12380a27d60259586f2a03c50311afd"
+            }
+        }
+    },
+    "enigma0x3/Invoke-AltDSBackdoor": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-ADSBackdoor.ps1": {
+                "path": "Invoke-ADSBackdoor.ps1",
+                "size": 7514,
+                "lastTimeDownloaded": "02.04.2018 14:17",
+                "md5": "03a02fdd5c900768a9b187426f757484"
+            }
+        }
+    },
+    "giMini/PowerMemory": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Utils.ps1": {
+                "path": "RWMC/utilities/Utils.ps1",
+                "size": 27752,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "f2ae0abd8c5c5cdd47e181bff3bd89df"
+            },
+            "Inject-AllPrivilegesInProcess.ps1": {
+                "path": "PowerProcess/Inject-AllPrivilegesInProcess.ps1",
+                "size": 10240,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "220b8ea6bd9bae265c7f53d106bd4393"
+            },
+            "Inject-ShellCodeInProcess.ps1": {
+                "path": "PowerProcess/Inject-ShellCodeInProcess.ps1",
+                "size": 15241,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "d222a6f27c5740f0330849eb9efeb3f3"
+            },
+            "Get-FirewallCredential.ps1": {
+                "path": "EYLR/Get-FirewallCredential.ps1",
+                "size": 3105,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "36c8c76133877f60de332a5feae11829"
+            },
+            "White-Rabbit.ps1": {
+                "path": "RWMCRS/White-Rabbit.ps1",
+                "size": 129788,
+                "lastTimeDownloaded": "02.04.2018 13:43",
+                "md5": "5f8669a5ee36216b96c498c779e9af36"
+            }
+        }
+    },
+    "p3nt4/Invoke-SocksProxy": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "peewpw/Invoke-PSImage": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PSImage.ps1": {
+                "path": "Invoke-PSImage.ps1",
+                "size": 5989,
+                "lastTimeDownloaded": "02.05.2018 11:36",
+                "md5": "23e52774b26eee39eed44e760869895b"
+            }
+        }
+    },
+    "chowdaryd/exploit_writing": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "EternalBlue_CSEmbeded.ps1": {
+                "path": "EternalBlue_CSEmbeded.ps1",
+                "size": 42765,
+                "lastTimeDownloaded": "02.04.2018 13:58",
+                "md5": "067c5b46950b412eea946721a3b9757d"
+            }
+        }
+    },
+    "PolarBearGod/PowerSyringe": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "PowerSyringe.ps1": {
+                "path": "PowerSyringe.ps1",
+                "size": 24407,
+                "lastTimeDownloaded": "02.04.2018 14:07",
+                "md5": "54b045674e8b7ebb489acc602d48f42c"
+            }
+        }
+    },
+    "nerbix/Invoke-FTPUpload": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-FTPUpload.ps1": {
+                "path": "Invoke-FTPUpload.ps1",
+                "size": 448,
+                "lastTimeDownloaded": "02.04.2018 14:59",
+                "md5": "0c79b2db57ffdc5e7e905bd29657ba08"
+            }
+        }
+    },
+    "r3p3r/Invoke-PSImage": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "danielbohannon/Invoke-CradleCrafter": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-CradleCrafter.ps1": {
+                "path": "Invoke-CradleCrafter.ps1",
+                "size": 300232,
+                "lastTimeDownloaded": "02.04.2018 14:13",
+                "md5": "3c92cc0731dc9572343e3b707cd3614a"
+            }
+        }
+    },
+    "xpn/Powershell-PostExploitation": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "chrisbrownie/Invoke-AdfsBranding": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-AdfsBranding.ps1": {
+                "path": "Invoke-AdfsBranding.ps1",
+                "size": 16039,
+                "lastTimeDownloaded": "02.04.2018 14:48",
+                "md5": "412180fae402caebc8f20b0e77846f78"
+            }
+        }
+    },
+    "shakenetwork/PowerSploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "strictlymike/Invoke-SchmappLocker": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-SchmappLocker.ps1": {
+                "path": "Invoke-SchmappLocker.ps1",
+                "size": 5060,
+                "lastTimeDownloaded": "02.04.2018 14:31",
+                "md5": "12629621b1aa1a0021cd9efd0f33034e"
+            }
+        }
+    },
+    "poshsecurity/MS15034": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "gfoss/Invoke-Wrike": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "wrike-srp.ps1": {
+                "path": "SmartResponse-Source/wrike-srp.ps1",
+                "size": 2165,
+                "lastTimeDownloaded": "02.04.2018 14:57",
+                "md5": "86d174fdd2cb466b3ddd56d814fdbef2"
+            },
+            "wrike.ps1": {
+                "path": "wrike.ps1",
+                "size": 4437,
+                "lastTimeDownloaded": "02.04.2018 14:57",
+                "md5": "27312b8a81c12fe2a76ed86f2f059d08"
+            }
+        }
+    },
+    "Appease/InvokeVSTestConsole": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "mnaoumov/Invoke-NativeApplication": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "exec.ps1": {
+                "path": "exec.ps1",
+                "size": 1542,
+                "lastTimeDownloaded": "02.04.2018 14:39",
+                "md5": "7a2c5d9b1abe8007e995d36567a30803"
+            }
+        }
+    },
+    "gitsuh/invoke-pingsweep": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "invoke-pingsweep.ps1": {
+                "path": "invoke-pingsweep.ps1",
+                "size": 849,
+                "lastTimeDownloaded": "02.04.2018 15:00",
+                "md5": "beb3c25c4afd4ba7f685669dded7287e"
+            }
+        }
+    },
+    "mkellerman/Invoke-CommandAs": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-CommandAs.build.ps1": {
+                "path": "Invoke-CommandAs.build.ps1",
+                "md5": "c91c77ddb6b3c53d1947a1d036a9f012",
+                "size": 4600,
+                "lastTimeDownloaded": "25.02.2019 17:33"
+            },
+            "Invoke-CommandAs.ps1": {
+                "path": "Scripts/Invoke-CommandAs.ps1",
+                "md5": "e937357bae6c882b78266b863c34b4f9",
+                "size": 17605,
+                "lastTimeDownloaded": "25.02.2019 17:33"
+            },
+            "Invoke-CommandAs.Tests.ps1": {
+                "path": "Tests/Invoke-CommandAs.Tests.ps1",
+                "md5": "c184b69fe5c67b94821a0db2ca59c2cb",
+                "size": 641,
+                "lastTimeDownloaded": "25.02.2019 17:33"
+            },
+            "Invoke-ScheduledTask.ps1": {
+                "path": "Invoke-CommandAs/Private/Invoke-ScheduledTask.ps1",
+                "md5": "cfcf76dbb74e7635f5741b70a36690e8",
+                "size": 9811,
+                "lastTimeDownloaded": "25.02.2019 17:33"
+            },
+            "Invoke-CommandAs.bootstrap.ps1": {
+                "path": "Invoke-CommandAs.bootstrap.ps1",
+                "md5": "0e948300be6a0d070b900b5d238cafc9",
+                "size": 783,
+                "lastTimeDownloaded": "25.02.2019 17:33"
+            },
+            "PSScriptAnalyzer.Tests.ps1": {
+                "path": "Tests/PSScriptAnalyzer.Tests.ps1",
+                "md5": "afaf06d4d762af43b3e8cc66bc26aaae",
+                "size": 6793,
+                "lastTimeDownloaded": "25.02.2019 17:33"
+            }
+        }
+    },
+    "peewpw/Invoke-WCMDump": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-WCMDump.ps1": {
+                "path": "Invoke-WCMDump.ps1",
+                "size": 8793,
+                "lastTimeDownloaded": "02.04.2018 14:12",
+                "md5": "b02b62c6195ea027fd6cfe32103adad9"
+            }
+        }
+    },
+    "jothatron/PowerShell-Post-Exploitation-Tools": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-FTPUpload.ps1": {
+                "path": "Invoke-FTPUpload.ps1",
+                "size": 625,
+                "lastTimeDownloaded": "02.04.2018 13:56",
+                "md5": "3baa003f8096e013b064b17d11a61d05"
+            },
+            "demo-1-wmi.ps1": {
+                "path": "Demo-Files/demo-1-wmi.ps1",
+                "md5": "ecae7e79675c0cb62477f036ec64e48e",
+                "size": 6824,
+                "lastTimeDownloaded": "14.11.2018 09:45"
+            },
+            "demo-1.ps1": {
+                "path": "Demo-Files/demo-1.ps1",
+                "md5": "5763c727b090f3245e7933b57d5bc98d",
+                "size": 6849,
+                "lastTimeDownloaded": "14.11.2018 09:45"
+            }
+        }
+    },
+    "cdhunt/Parse-Curl": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Parse-Curl.Tests.ps1": {
+                "path": "Parse-Curl.Tests.ps1",
+                "size": 4321,
+                "lastTimeDownloaded": "02.04.2018 14:35",
+                "md5": "eb0b1ba05b0e71cfa5a6e2774e12bfb1"
+            }
+        }
+    },
+    "0sm0s1z/Invoke-SelfSignedWebRequest": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-SelfSignedWebRequest.ps1": {
+                "path": "Invoke-SelfSignedWebRequest.ps1",
+                "size": 1988,
+                "lastTimeDownloaded": "02.04.2018 14:51",
+                "md5": "1be7569ecdd152536d3f0f41f2a8f9cd"
+            },
+            "Disable-CertificateValidation.ps1": {
+                "path": "Disable-CertificateValidation.ps1",
+                "size": 702,
+                "lastTimeDownloaded": "02.04.2018 14:51",
+                "md5": "31bd0e8b8e185eeab2d18f7af5f397c9"
+            },
+            "Disable-NetSSLValidation.ps1": {
+                "path": "Disable-NetSSLValidation.ps1",
+                "size": 1182,
+                "lastTimeDownloaded": "02.04.2018 14:51",
+                "md5": "1acbf968e2ca3643751743b33be3a27e"
+            }
+        }
+    },
+    "exaybachay-ak/grayb0x": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "byt3bl33d3r/Invoke-AutoIt": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "richardyoung00/remote-invoke": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "remote-invoke.ps1": {
+                "path": "remote-invoke.ps1",
+                "size": 840,
+                "lastTimeDownloaded": "02.04.2018 14:58",
+                "md5": "e33a7e00d6db92632e8265c2e9ae5fd1"
+            }
+        }
+    },
+    "mallouris/CheckForPatchedKB4012212": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "CheckForPatchedKB4012212.ps1": {
+                "path": "CheckForPatchedKB4012212.ps1",
+                "size": 962,
+                "lastTimeDownloaded": "02.04.2018 14:08",
+                "md5": "0eff60ab6f8149dcf1bf7ff2046e4256"
+            }
+        }
+    },
+    "Burnd9671/Invoke-Mimikatz": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "deadlydog/Invoke-MsBuild": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "RunTests.ps1": {
+                "path": "src/Tests/RunTests.ps1",
+                "size": 4438,
+                "lastTimeDownloaded": "02.04.2018 14:18",
+                "md5": "70801205a67202c63adf63755ec66414"
+            },
+            "Publish-NewVersionToPowerShellGalleryAndGitHub.ps1": {
+                "path": "publishTools/Publish-NewVersionToPowerShellGalleryAndGitHub.ps1",
+                "size": 7525,
+                "lastTimeDownloaded": "25.02.2019 17:34",
+                "md5": "8fc8061e8fd7abd9388c59dd6040d30d"
+            }
+        }
+    },
+    "davidhowell-tx/Invoke-LiveResponse": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Get-PrefetchLite.ps1": {
+                "path": "CollectionModules/Processes/Get-PrefetchLite.ps1",
+                "size": 17418,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "0ad4a07da99bcaf65a2c1e803001384e"
+            },
+            "Get-AutorunscFull.ps1": {
+                "path": "CollectionModules/Persistence/Get-AutorunscFull.ps1",
+                "size": 1850,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "d3ad6f9172a2b7d3a47e28267893f9cb"
+            },
+            "Invoke-LiveResponse.ps1": {
+                "path": "Invoke-LiveResponse.ps1",
+                "size": 142308,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "1fdccee7709d3d226da43fe4428f6275"
+            },
+            "Get-WMIEventConsumers.ps1": {
+                "path": "CollectionModules/Persistence/Get-WMIEventConsumers.ps1",
+                "size": 27630,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "6b37115da2d5058ca09caefe1b8b549f"
+            },
+            "GUI.ps1": {
+                "path": "Plugins/GUI.ps1",
+                "size": 28828,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "772784af159cb32b053bee42cf0c368a"
+            },
+            "Get-BootRecord.ps1": {
+                "path": "CollectionModules/SystemConfiguration/Get-BootRecord.ps1",
+                "size": 8520,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "76a972a3f9e1dee269340fa9a401d664"
+            },
+            "Get-PartitionTable.ps1": {
+                "path": "CollectionModules/SystemConfiguration/Get-PartitionTable.ps1",
+                "size": 13516,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "03c78fb96cbca524896861278ac2fa6c"
+            },
+            "Get-SCEPDetections.ps1": {
+                "path": "CollectionModules/Logs/Get-SCEPDetections.ps1",
+                "size": 3302,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "8edde1291168f49d60202f0cf34aac39"
+            },
+            "Get-ProcessStrings.ps1": {
+                "path": "CollectionModules/Processes/Get-ProcessStrings.ps1",
+                "size": 23866,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "b5c5eb633721f9e9462a7e6f234caadc"
+            },
+            "Get-SysmonLog.ps1": {
+                "path": "CollectionModules/Logs/Get-SysmonLog.ps1",
+                "size": 15028,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "78145ae3ef50c40c5fabcaf6f4fa6bb6"
+            },
+            "Get-AutorunscLite.ps1": {
+                "path": "CollectionModules/Persistence/Get-AutorunscLite.ps1",
+                "size": 1694,
+                "lastTimeDownloaded": "02.04.2018 14:29",
+                "md5": "3fe0fd1de996b92211b939e5cdae53ca"
+            }
+        }
+    },
+    "p3nt4/Invoke-Piper": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "SiggyD/InvokeProjectName": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "Jens472/Invoke-MS16-032": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-MS16-032.ps1": {
+                "path": "Invoke-MS16-032.ps1",
+                "size": 10587,
+                "lastTimeDownloaded": "02.04.2018 14:31",
+                "md5": "1e3b8f6c0d7077264675dd2991ddfbc3"
+            }
+        }
+    },
+    "gfoss/Invoke-Hue": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "PoSHue.ps1": {
+                "path": "SmartResponse-Source/PoSHue.ps1",
+                "size": 47719,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "012e55dda0ea54066aa637cc70789e7a"
+            },
+            "Invoke-Hue.ps1": {
+                "path": "Invoke-Hue.ps1",
+                "size": 8639,
+                "lastTimeDownloaded": "02.04.2018 14:42",
+                "md5": "e46df1e3b4455a232fbcfb5862c4ae1f"
+            }
+        }
+    },
+    "Kevin-Robertson/Powermad": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Invoke-DNSUpdate.ps1": {
+                "path": "Invoke-DNSUpdate.ps1",
+                "md5": "ae08eba378a68d2ec5de6ef0df1ebeaf",
+                "size": 75783,
+                "lastTimeDownloaded": "14.11.2018 09:21"
+            },
+            "Powermad.ps1": {
+                "path": "Powermad.ps1",
+                "md5": "3c11e7e68d36bc8b63f196240e474d13",
+                "size": 129484,
+                "lastTimeDownloaded": "14.11.2018 09:21"
+            }
+        }
+    },
+    "Ne0nd0g/merlin": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "nettitude/Invoke-PowerThIEf": {
+        "keywords": [
+            "exploit",
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PowerThIEf.ps1": {
+                "path": "Invoke-PowerThIEf.ps1",
+                "md5": "91ff0032016d092db091b5fccac066d5",
+                "size": 60390,
+                "lastTimeDownloaded": "14.11.2018 09:34"
+            }
+        }
+    },
+    "tasox/LogRM": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "logEnum_v1.1.ps1": {
+                "path": "logEnum_v1.1.ps1",
+                "md5": "6dfebb38d9e92c45cca35e936516f831",
+                "size": 108696,
+                "lastTimeDownloaded": "14.11.2018 09:42"
+            },
+            "LogRM_cobaltstrike.ps1": {
+                "path": "LogRM_cobaltstrike.ps1",
+                "md5": "ac359fb3a36b2c3ce9f0fd4da7af6664",
+                "size": 86983,
+                "lastTimeDownloaded": "14.11.2018 09:42"
+            },
+            "logRM.ps1": {
+                "path": "logRM.ps1",
+                "md5": "d6c075896cf638f8f4dc506fbbe02dbe",
+                "size": 88399,
+                "lastTimeDownloaded": "14.11.2018 09:42"
+            },
+            "logRM_v1.1.ps1": {
+                "path": "logRM_v1.1.ps1",
+                "md5": "2d0aa8101ddaed7aed751fba38342183",
+                "size": 108698,
+                "lastTimeDownloaded": "25.02.2019 16:35"
+            }
+        }
+    },
+    "yavuzatlas/Vulmap-Windows": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "vulmap-windows.ps1": {
+                "path": "vulmap-windows.ps1",
+                "md5": "d9c0748bc6a07b3701157d5599243a6a",
+                "size": 6638,
+                "lastTimeDownloaded": "14.11.2018 09:42"
+            }
+        }
+    },
+    "srl3630/PostExploitMusicPlayer": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "aoighost/docker-ptf-exploitation-set": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "ptracesecurity/advanced-software-exploitation-course": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "blackiemontbrook/mimikatz": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "BleepSec/Get-MS14-068": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "littlepwnie/pentesting": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "med0x2e/RT-EWS": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "EWS-RT.ps1": {
+                "path": "EWS-RT.ps1",
+                "md5": "006e3c573b5716d605b1b7f87261fd93",
+                "size": 84602,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-AreaChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-AreaChart.ps1",
+                "md5": "d51540616c69ab106b2a922ce49fb270",
+                "size": 9361,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-BarChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-BarChart.ps1",
+                "md5": "d5a44c8b955353146a8b23a44c44c9aa",
+                "size": 9354,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-BubbleChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-BubbleChart.ps1",
+                "md5": "60f328dd06b3215b4bedf1c502e22a49",
+                "size": 9377,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-ColumnChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-ColumnChart.ps1",
+                "md5": "936ff3fe0c2ccca731b530c97800afdf",
+                "size": 9377,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-DoughnutChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-DoughnutChart.ps1",
+                "md5": "53ea8de97775cbe456bb163902ef171b",
+                "size": 7441,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-FunnelChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-FunnelChart.ps1",
+                "md5": "29ae0751c4de7a8e230260ee2553527d",
+                "size": 7445,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-KagiChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-KagiChart.ps1",
+                "md5": "f88c15c90e2c96701c3929da7947bdf8",
+                "size": 7349,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-PieChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-PieChart.ps1",
+                "md5": "3660cb3f03b0433d0f737037f9368907",
+                "size": 7463,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-PointChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-PointChart.ps1",
+                "md5": "d37eb131568d780dff9d4a39e1f5955b",
+                "size": 9351,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-PyramidChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-PyramidChart.ps1",
+                "md5": "7123f7f939531eacae1b6de4a68ad04f",
+                "size": 7450,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-SplineChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-SplineChart.ps1",
+                "md5": "5f52ec301bfda9f93b0e1b991d942d28",
+                "size": 9377,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-StackedAreaChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-StackedAreaChart.ps1",
+                "md5": "dbc3c1635a86a291bd9157e7b2cd4219",
+                "size": 9410,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-StackedBarChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-StackedBarChart.ps1",
+                "md5": "4ae5db911be1cb960c7a04603238470b",
+                "size": 9410,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-StackedColumnChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-StackedColumnChart.ps1",
+                "md5": "9478cf4e54032ef1925ebbbd67064d10",
+                "size": 9433,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-BoxPlotChart_WIP.ps1": {
+                "path": "dependencies/lib/Functions/WIP/Out-BoxPlotChart_WIP.ps1",
+                "md5": "2fd2bec025e278a3ff40cb0b5fab43f4",
+                "size": 9388,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-CandleStickChart_WIP.ps1": {
+                "path": "dependencies/lib/Functions/WIP/Out-CandleStickChart_WIP.ps1",
+                "md5": "eb6746653474fac916c9f0aa86c0c42e",
+                "size": 9427,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-PointAndFigureChart_WIP.ps1": {
+                "path": "dependencies/lib/Functions/WIP/Out-PointAndFigureChart_WIP.ps1",
+                "md5": "5ec2ac6cc16538b6f81720acc6094430",
+                "size": 7326,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-PolarChart_WIP.ps1": {
+                "path": "dependencies/lib/Functions/WIP/Out-PolarChart_WIP.ps1",
+                "md5": "f38e47bae9f6c5ca560b660e24d657cb",
+                "size": 9367,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-RadarChart_WIP.ps1": {
+                "path": "dependencies/lib/Functions/WIP/Out-RadarChart_WIP.ps1",
+                "md5": "434128f752e771e2ea737aecbc5db938",
+                "size": 9367,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-StockChart_WIP.ps1": {
+                "path": "dependencies/lib/Functions/WIP/Out-StockChart_WIP.ps1",
+                "md5": "d5bc7e59851ff4b98742fc183136c853",
+                "size": 9367,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            },
+            "Out-LineChart.ps1": {
+                "path": "dependencies/lib/Functions/Public/Out-LineChart.ps1",
+                "md5": "7e125397eb21b72b80f082870efaa331",
+                "size": 11115,
+                "lastTimeDownloaded": "14.11.2018 10:02"
+            }
+        }
+    },
+    "0x00-0x00/CVE-2018-7422": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "Wordpress-LFI.ps1": {
+                "path": "Wordpress-LFI.ps1",
+                "md5": "65e12a46d37dfe82a9dc7191957b119b",
+                "size": 704,
+                "lastTimeDownloaded": "14.11.2018 10:03"
+            }
+        }
+    },
+    "almapro/persistence": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "0x00-0x00/CVE-2018-10517": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "CMS-MadeSimple-RCE.ps1": {
+                "path": "CMS-MadeSimple-RCE.ps1",
+                "md5": "41d04ac97fe44f6d8104f48ce3a5f7fb",
+                "size": 4102,
+                "lastTimeDownloaded": "14.11.2018 10:05"
+            }
+        }
+    },
+    "0x00-0x00/CVE-2018-12613": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "PHPMyAdmin-LFI.ps1": {
+                "path": "PHPMyAdmin-LFI.ps1",
+                "md5": "084eb596e212c077edb208f52d4aef36",
+                "size": 2433,
+                "lastTimeDownloaded": "14.11.2018 10:09"
+            }
+        }
+    },
+    "D00MFist/NewbCannon": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "JonnyBanana/Rubber_Ducky_Gather_Network_Info": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "norasec/scripts": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "ADSI-Enum.ps1": {
+                "path": "ADSI-Enum.ps1",
+                "md5": "0604dfbebc4bbde339b90978d70be53a",
+                "size": 13895,
+                "lastTimeDownloaded": "14.11.2018 10:13"
+            }
+        }
+    },
+    "0xvm/PowerSyringe.ps1": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "PowerSyringe.ps1": {
+                "path": "PowerSyringe.ps1",
+                "md5": "80ef9643c3945799e273e54d93b3fe72",
+                "size": 24871,
+                "lastTimeDownloaded": "14.11.2018 10:14"
+            }
+        }
+    },
+    "yoda66/PowerBleed": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "Cybereason/Invoke-WMILM": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-WMILM.ps1": {
+                "path": "Invoke-WMILM.ps1",
+                "md5": "5947702afd762c64e870796470d2739f",
+                "size": 10303,
+                "lastTimeDownloaded": "14.11.2018 10:32"
+            }
+        }
+    },
+    "p3nt4/Invoke-TmpDavFS": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "fox-it/Invoke-CredentialPhisher": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-CredentialPhisher.ps1": {
+                "path": "Invoke-CredentialPhisher.ps1",
+                "md5": "c631d17084ffadf10e6462b53c6871a8",
+                "size": 38806,
+                "lastTimeDownloaded": "25.02.2019 17:39"
+            }
+        }
+    },
+    "curtbraz/Invoke-NeutralizeAV": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-NeutralizeAV.ps1": {
+                "path": "Invoke-NeutralizeAV.ps1",
+                "md5": "79d46bd843aa6b7af21934f691782f3b",
+                "size": 3682,
+                "lastTimeDownloaded": "14.11.2018 10:53"
+            }
+        }
+    },
+    "G4lB1t/Invoke-NoShell": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-NoShell.ps1": {
+                "path": "Invoke-NoShell.ps1",
+                "md5": "4d7ae2147e93c74fcba27e6c35d65c22",
+                "size": 24571,
+                "lastTimeDownloaded": "14.11.2018 10:54"
+            }
+        }
+    },
+    "ubeeri/Invoke-PWAudit": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "rasta-mouse/Invoke-Trumail": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Trumail.ps1": {
+                "path": "Invoke-Trumail.ps1",
+                "md5": "366dd6438876ef84526bf08367d26f88",
+                "size": 1094,
+                "lastTimeDownloaded": "14.11.2018 11:03"
+            }
+        }
+    },
+    "DanMcInerney/Invoke-Cats": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "mkellerman/Invoke-Job": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Example.1.ps1": {
+                "path": "Examples/Invoke-Example.1.ps1",
+                "md5": "38ae0c992951eccaab8acd9d0f26b90a",
+                "size": 191,
+                "lastTimeDownloaded": "14.11.2018 11:07"
+            },
+            "Invoke-Job.ps1": {
+                "path": "Invoke-Job.ps1",
+                "md5": "d439a03420e590a389546e4afd6d6ddf",
+                "size": 12998,
+                "lastTimeDownloaded": "14.11.2018 11:07"
+            },
+            "Invoke-Example.2.ps1": {
+                "path": "Examples/Invoke-Example.2.ps1",
+                "md5": "64026e623e42b19cd255c39288d3d9e6",
+                "size": 1384,
+                "lastTimeDownloaded": "14.11.2018 11:07"
+            }
+        }
+    },
+    "outflanknl/Invoke-Templator": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Templator.ps1": {
+                "path": "Invoke-Templator.ps1",
+                "md5": "fa22d1dd47b928d5fc8f82cec4c1fa77",
+                "size": 4040,
+                "lastTimeDownloaded": "14.11.2018 11:12"
+            }
+        }
+    },
+    "psake/PowerShellBuild": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "build.ps1": {
+                "path": "build.ps1",
+                "md5": "deb5de1be3eb056f854e3651e4458ebb",
+                "size": 1197,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            },
+            "psakeFile.ps1": {
+                "path": "psakeFile.ps1",
+                "md5": "d524448ec9f4cb99c5e8ed37d04311c2",
+                "size": 2526,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            },
+            "Test-PSBuildScriptAnalysis.ps1": {
+                "path": "PowerShellBuild/Public/Test-PSBuildScriptAnalysis.ps1",
+                "md5": "691f27dbe96a6f8ed7275cb0eb663473",
+                "size": 2232,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            },
+            "build.properties.ps1": {
+                "path": "PowerShellBuild/build.properties.ps1",
+                "md5": "d6afe4ec86e17cafbb799290499b4f26",
+                "size": 5263,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            },
+            "Test-PSBuildPester.ps1": {
+                "path": "PowerShellBuild/Public/Test-PSBuildPester.ps1",
+                "md5": "e646e1a42e07fc13c68f0378dc6e5446",
+                "size": 2584,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            },
+            "IB.tasks.ps1": {
+                "path": "PowerShellBuild/IB.tasks.ps1",
+                "md5": "8dfcbe8164a56ce79e91b3a34eee09e6",
+                "size": 2515,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            },
+            "Help.tests.ps1": {
+                "path": "tests/Help.tests.ps1",
+                "md5": "b1dadf85046f6bab18fa4f85272a00c5",
+                "size": 5004,
+                "lastTimeDownloaded": "14.11.2018 11:18"
+            }
+        }
+    },
+    "Milstein/Connection-viaREST": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "ConnectNutanix-REST.ps1": {
+                "path": "ConnectNutanix-REST.ps1",
+                "md5": "301164a047e524ab04ad300d795b546f",
+                "size": 716,
+                "lastTimeDownloaded": "14.11.2018 11:22"
+            }
+        }
+    },
+    "LogRhythm-Labs/Invoke-Okta": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Okta.ps1": {
+                "path": "Invoke-Okta.ps1",
+                "md5": "779e48fcd359bcc0e94b7bfd41deb3f3",
+                "size": 8205,
+                "lastTimeDownloaded": "14.11.2018 11:30"
+            },
+            "okta-srp.ps1": {
+                "path": "SmartResponse/Source/okta-srp.ps1",
+                "md5": "31e670b619aa787903ecc25060d3f43d",
+                "size": 4785,
+                "lastTimeDownloaded": "14.11.2018 11:30"
+            }
+        }
+    },
+    "ScottEvtuch/PSLastPass": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-LPLogin.ps1": {
+                "path": "Private/Invoke-LPLogin.ps1",
+                "md5": "93c21913d33bf2dba8cc6a0c53134825",
+                "size": 3156,
+                "lastTimeDownloaded": "14.11.2018 11:31"
+            },
+            "Get-LPVault.ps1": {
+                "path": "Private/Get-LPVault.ps1",
+                "md5": "c610c47e9531b147db7f29ff90253f4f",
+                "size": 2399,
+                "lastTimeDownloaded": "14.11.2018 11:31"
+            },
+            "ConvertFrom-LPEncryptedString.ps1": {
+                "path": "Private/ConvertFrom-LPEncryptedString.ps1",
+                "md5": "c0d4cf21499d482981c864bc67c6becf",
+                "size": 1920,
+                "lastTimeDownloaded": "14.11.2018 11:31"
+            },
+            "Get-LPKeys.ps1": {
+                "path": "Private/Get-LPKeys.ps1",
+                "md5": "5b4113f20e38caf100fcce2bf79937da",
+                "size": 2462,
+                "lastTimeDownloaded": "14.11.2018 11:31"
+            }
+        }
+    },
+    "fir3d0g/mimidogz": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "dfranciscus/Invoke-USMT": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-USMT.ps1": {
+                "path": "Invoke-USMT.ps1",
+                "md5": "d3dbd00056760e201d9dbb48001071b1",
+                "size": 4274,
+                "lastTimeDownloaded": "14.11.2018 11:33"
+            }
+        }
+    },
+    "Exploit-install/Invoke-PSImage": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "mgreen27/Invoke-BitsParser": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-BitsTransfer.ps1": {
+                "path": "Invoke-BitsTransfer.ps1",
+                "md5": "f9676224975d5ee4a35836500f47e6d1",
+                "size": 8416,
+                "lastTimeDownloaded": "14.11.2018 11:43"
+            }
+        }
+    },
+    "pattersonbr/InvokeShellcode": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PSUdp.ps1": {
+                "path": "Invoke-PSUdp.ps1",
+                "md5": "d5597a8b6bd63afba7a63ae9d580337a",
+                "size": 4223,
+                "lastTimeDownloaded": "14.11.2018 11:49"
+            },
+            "Invoke-Shellcode.ps1": {
+                "path": "Invoke-Shellcode.ps1",
+                "md5": "c852d789e1d7f3e79c0f7232565b6897",
+                "size": 31726,
+                "lastTimeDownloaded": "14.11.2018 11:49"
+            },
+            "Invoke-PSTCP-GFS.ps1": {
+                "path": "Invoke-PSTCP-GFS.ps1",
+                "md5": "b04d49781a2011af259b008ad1712de7",
+                "size": 2599,
+                "lastTimeDownloaded": "14.11.2018 11:49"
+            },
+            "Invoke-PSTCP.ps1": {
+                "path": "Invoke-PSTCP.ps1",
+                "md5": "b4caf43b71c3a02615adb4455418008d",
+                "size": 2506,
+                "lastTimeDownloaded": "14.11.2018 11:49"
+            },
+            "Invoke-PSTcp.ps1": {
+                "path": "Invoke-PSTcp.ps1",
+                "md5": "39474ddd1866fe2bf93fcdaafa40d50d",
+                "size": 2461,
+                "lastTimeDownloaded": "14.11.2018 11:49"
+            },
+            "Invoke-PowerShellUdp.ps1": {
+                "path": "Invoke-PowerShellUdp.ps1",
+                "md5": "4015b3a44f2bf4c97805c92eea49e637",
+                "size": 3830,
+                "lastTimeDownloaded": "14.11.2018 11:49"
+            }
+        }
+    },
+    "kelleyma49/PSFzf": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {
+            "PSFzf.Functions.ps1": {
+                "path": "PSFzf.Functions.ps1",
+                "md5": "f576da79d0be2f5fbc4b706e5466f48a",
+                "size": 5421,
+                "lastTimeDownloaded": "14.11.2018 11:50"
+            },
+            "PSFzf.tests.ps1": {
+                "path": "PSFzf.tests.ps1",
+                "md5": "9c420b6e3efc929035fe46ba618263cc",
+                "size": 5626,
+                "lastTimeDownloaded": "14.11.2018 11:50"
+            }
+        }
+    },
+    "toenuff/WinArduino": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {
+            "example_read_serial.ps1": {
+                "path": "Examples/example_read_serial.ps1",
+                "md5": "fd57ba5d55aa27c4bc0f34d924dc2b00",
+                "size": 889,
+                "lastTimeDownloaded": "14.11.2018 11:50"
+            },
+            "example_write_serial.ps1": {
+                "path": "Examples/example_write_serial.ps1",
+                "md5": "e2e7fb814626e8c430fa431dfb23c798",
+                "size": 1227,
+                "lastTimeDownloaded": "14.11.2018 11:50"
+            }
+        }
+    },
+    "hefwilliams/CommandLine": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "IISResetMe/rdp": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {
+            "Invoke-RemoteDesktopConnection.ps1": {
+                "path": "Invoke-RemoteDesktopConnection.ps1",
+                "md5": "8db05e4ec1db4d3353edee9f82dfc5aa",
+                "size": 2271,
+                "lastTimeDownloaded": "14.11.2018 11:52"
+            }
+        }
+    },
+    "mydur/New-AzureVM": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "chrisseroka/CommandLineToolkit": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "xfree123/powershell": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "Marslo/Colorful_CommandLine_Windows": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {
+            "Microsoft.PowerShell_profile.ps1": {
+                "path": "PowerShell/Aliases/Microsoft.PowerShell_profile.ps1",
+                "md5": "79cf8b910ddc26a2edd2a7c10bb8046a",
+                "size": 5740,
+                "lastTimeDownloaded": "14.11.2018 11:55"
+            }
+        }
+    },
+    "agc93/spectre.commandline.extensions.dependencyinjection": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {
+            "build.ps1": {
+                "path": "build.ps1",
+                "md5": "b1cba12b9e85ed62b067fc950859c5fa",
+                "size": 6264,
+                "lastTimeDownloaded": "14.11.2018 11:56"
+            }
+        }
+    },
+    "samdinesh86/DotCoverTFSExtension": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {
+            "ToolFunctions.ps1": {
+                "path": "buildtasks/ps_modules/VstsTaskSdk/ToolFunctions.ps1",
+                "md5": "acdf4b496b82a541e0b7e73d3e2d9562",
+                "size": 3918,
+                "lastTimeDownloaded": "14.11.2018 11:57"
+            },
+            "OutFunctions.ps1": {
+                "path": "buildtasks/ps_modules/VstsTaskSdk/OutFunctions.ps1",
+                "md5": "4bc7b3c34770819d7d7f60eb9157159a",
+                "size": 3307,
+                "lastTimeDownloaded": "14.11.2018 11:57"
+            },
+            "InputFunctions.ps1": {
+                "path": "buildtasks/ps_modules/VstsTaskSdk/InputFunctions.ps1",
+                "md5": "e51f08007c3d4a57fa8fcac8cf94fe05",
+                "size": 15791,
+                "lastTimeDownloaded": "14.11.2018 11:57"
+            }
+        }
+    },
+    "schoenr79/RestoreDatabasePS": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "kazaamjt/POSH-ProjectTools": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "lazywinadmin/PerforcePS": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "cmerlos/script_practice": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "nsutilities/sysadmin": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "MS-LUF/Use-WhoisOvertHTTP": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "AndyAmo5/DomainExpiry": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "kmmizouri/new-win-cmd": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "MS-LUF/Resolve-DNSNameOverHTTP": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "totpero/Chocolatey": {
+        "keywords": [
+            "commandline"
+        ],
+        "files": {}
+    },
+    "JSpencerIV/MyChallenges02": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {}
+    },
+    "WiZaRd31337/TUI_TOUR_SPY": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {
+            "TUI_TOUR_SPY.ps1": {
+                "path": "TUI_TOUR_SPY.ps1",
+                "md5": "aec1c330401fc00537f7e94d021626d4",
+                "size": 1422,
+                "lastTimeDownloaded": "14.11.2018 12:07"
+            }
+        }
+    },
+    "veso266/RDS-Spy-Plugins": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {}
+    },
+    "jmeers/WinSpyKiller-Hide": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {}
+    },
+    "nickgen/DeleteWin7-8Spy": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {
+            "Invoke-WUInstall.ps1": {
+                "path": "PSWindowsUpdate/Invoke-WUInstall.ps1",
+                "md5": "9344accdbd048721ee02fc9aab0d1052",
+                "size": 6020,
+                "lastTimeDownloaded": "14.11.2018 12:09"
+            },
+            "Update-WUModule.ps1": {
+                "path": "PSWindowsUpdate/Update-WUModule.ps1",
+                "md5": "1f04322cd2351848b9870623343e0313",
+                "size": 19582,
+                "lastTimeDownloaded": "14.11.2018 12:09"
+            }
+        }
+    },
+    "TobyEU/Sandbox-Fake": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {
+            "fake_sandbox.ps1": {
+                "path": "Sandbox-Fake/fake_sandbox.ps1",
+                "md5": "3d4b4c17914dbe84132454b6b5a2347a",
+                "size": 1466,
+                "lastTimeDownloaded": "14.11.2018 12:10"
+            }
+        }
+    },
+    "Gray-G/ChallengeEpicSpiesAssetTracker": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {}
+    },
+    "Gray-G/ChallengeEpicSpiesAssignment": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {}
+    },
+    "kill0rz/Windows-7-8-8.1-Violent-Update-Remover": {
+        "keywords": [
+            "spy"
+        ],
+        "files": {}
+    },
+    "securemode/Invoke-Apex": {
+        "keywords": [
+            "exploit",
+            "invoke"
+        ],
+        "files": {
+            "Invoke-MitreReference.ps1": {
+                "path": "modules/Invoke-MitreReference.ps1",
+                "md5": "cb103813f13dec5470981c86fcda688c",
+                "size": 10303,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Sysinfo.ps1": {
+                "path": "modules/Invoke-Sysinfo.ps1",
+                "md5": "cecdf6bb818ce354432b20bd3f623598",
+                "size": 13746,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Persistence.ps1": {
+                "path": "modules/Invoke-Persistence.ps1",
+                "md5": "b8014925d759600af36cb9331e4a5bc3",
+                "size": 12085,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Execute.ps1": {
+                "path": "modules/Invoke-Execute.ps1",
+                "md5": "0fc5ba101882c216e35fa62c6f97fbf6",
+                "size": 19296,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-DefenderTools.ps1": {
+                "path": "modules/Invoke-DefenderTools.ps1",
+                "md5": "678c011ecb0b2329dd10ed44ebbf0b3d",
+                "size": 7167,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Download.ps1": {
+                "path": "modules/Invoke-Download.ps1",
+                "md5": "f3fe803897b3e2f7fac7c2fbdf652fb5",
+                "size": 5585,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Exfil.ps1": {
+                "path": "modules/Invoke-Exfil.ps1",
+                "md5": "a6aa9f1b06a808f7f1da5c9817787b8e",
+                "size": 9456,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Utility.ps1": {
+                "path": "modules/Invoke-Utility.ps1",
+                "md5": "c1f34479cf791869aaa40646dedb37c9",
+                "size": 7594,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Creds.ps1": {
+                "path": "modules/Invoke-Creds.ps1",
+                "md5": "90492e9a665786547794096ede8964f2",
+                "size": 9910,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Privesc.ps1": {
+                "path": "modules/Invoke-Privesc.ps1",
+                "md5": "fab252b725d13b87c4acac1c33ba4d3f",
+                "size": 2313,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-GlassWireExceptions.ps1": {
+                "path": "modules/Invoke-GlassWireExceptions.ps1",
+                "md5": "5bedee05f63ca445712bc46142110867",
+                "size": 1578,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Compile.ps1": {
+                "path": "modules/Invoke-Compile.ps1",
+                "md5": "95b80c8a899dcb4c42142da58c523b23",
+                "size": 14747,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Apex.ps1": {
+                "path": "modules/Invoke-Apex.ps1",
+                "md5": "dbeca127f63efe7a9a0fbdc3ef97d823",
+                "size": 1135,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-UACBypass.ps1": {
+                "path": "modules/Invoke-UACBypass.ps1",
+                "md5": "1a3a8fd919a9af81fc84b26f1e42de31",
+                "size": 5321,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            },
+            "Invoke-Connect.ps1": {
+                "path": "modules/Invoke-Connect.ps1",
+                "md5": "7cb858618c3fb437d74126f14f40a362",
+                "size": 3191,
+                "lastTimeDownloaded": "25.02.2019 16:30"
+            }
+        }
+    },
+    "thom-s/docx-embeddedhtml-injection": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "docx-embeddedhtml-injection.ps1": {
+                "path": "docx-embeddedhtml-injection.ps1",
+                "md5": "a3ccb390b4e98ab9c0f8c8ad7d340d48",
+                "size": 1944,
+                "lastTimeDownloaded": "25.02.2019 16:39"
+            }
+        }
+    },
+    "securifera/CVE-2018-16156-Exploit": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {}
+    },
+    "mgreen27/Invoke-LiveResponse": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Get-Forensicating.ps1": {
+                "path": "Content/Ancillaries/Get-Forensicating.ps1",
+                "md5": "41d24a24bbad90108a5705f42591c929",
+                "size": 3520,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbCopyLiveResponse.ps1": {
+                "path": "Content/Scriptblock/Base/sbCopyLiveResponse.ps1",
+                "md5": "fe130786db781cdf5c98da109df5d1aa",
+                "size": 18316,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "Invoke-LiveResponse-Ancilaries.ps1": {
+                "path": "Content/Ancillaries/Invoke-LiveResponse-Ancilaries.ps1",
+                "md5": "a2f3a8fda11ca2c9d6a29a46aef6b885",
+                "size": 8031,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbDiskPlaso.ps1": {
+                "path": "Content/Scriptblock/sbDiskPlaso.ps1",
+                "md5": "983593874fa589080bb1f45b2bb8c7e3",
+                "size": 829,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbStart.ps1": {
+                "path": "Content/Scriptblock/Base/sbStart.ps1",
+                "md5": "781da439d66fa43d93e910e466c1ac0b",
+                "size": 578,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "Get-StartupInfo.ps1": {
+                "path": "Content/ASEP/Get-StartupInfo.ps1",
+                "md5": "aa59f6c87f1d8e0f691eb06615cf2f2f",
+                "size": 5517,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbLogfile.ps1": {
+                "path": "Content/Scriptblock/sbLogfile.ps1",
+                "md5": "d75693743ada5528752acda6c8019b79",
+                "size": 366,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbMft.ps1": {
+                "path": "Content/Scriptblock/sbMft.ps1",
+                "md5": "96080c156c7e78b61606b83ecaa8d51c",
+                "size": 345,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbUsnj.ps1": {
+                "path": "Content/Scriptblock/sbUsnj.ps1",
+                "md5": "f68396b09b3ca77012da566a18208022",
+                "size": 403,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbLocalLiveResponse.ps1": {
+                "path": "Content/Scriptblock/Base/sbLocalLiveResponse.ps1",
+                "md5": "438fdcc92b3f3778af71b06c9114903c",
+                "size": 2162,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbPlasoFilter.ps1": {
+                "path": "Content/Scriptblock/sbPlasoFilter.ps1",
+                "md5": "b53807c94377ffdf5c46e1fea5258ad2",
+                "size": 20048,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "sbAntiVirus.ps1": {
+                "path": "Content/Scriptblock/sbAntiVirus.ps1",
+                "md5": "6d5eaa884f2854e80d5155aee4f0275d",
+                "size": 1377,
+                "lastTimeDownloaded": "25.02.2019 17:39"
+            }
+        }
+    },
+    "vysecurity/Invoke-ProcessScan": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "mantvydasb/Invoke-PowerCloud": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-PowerCloud.ps1": {
+                "path": "Invoke-PowerCloud.ps1",
+                "md5": "bf01b18eda9dc8cbd864897be588fef1",
+                "size": 7115,
+                "lastTimeDownloaded": "25.02.2019 17:55"
+            }
+        }
+    },
+    "inguardians/Invoke-Clipboard": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "Invoke-Clipboard.ps1": {
+                "path": "Invoke-Clipboard.ps1",
+                "md5": "5ecc742cc4faf9da32d12dbc08b74a6b",
+                "size": 8750,
+                "lastTimeDownloaded": "25.02.2019 18:01"
+            }
+        }
+    },
+    "pspete/VaultControl": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "TylerLeonhardt/PSDashSearch": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "mkellerman/Invoke-ScheduledTask": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "WiredPulse/Invoke-GhostLog": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    },
+    "DanMcInerney/Invoke-Pwds": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {}
+    }
+}

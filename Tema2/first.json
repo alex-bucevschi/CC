@@ -1,0 +1,95 @@
+{
+    "repo": "mgreen27/Invoke-LiveResponse",
+    "infos": {
+        "keywords": [
+            "invoke"
+        ],
+        "files": {
+            "filename": "Get-Forensicating.ps1",
+            "fileinfo":{
+                "path": "Content/Ancillaries/Get-Forensicating.ps1",
+                "md5": "41d24a24bbad90108a5705f42591c929",
+                "size": 3520,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/Base/sbCopyLiveResponse.ps1",
+                "md5": "fe130786db781cdf5c98da109df5d1aa",
+                "size": 18316,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Ancillaries/Invoke-LiveResponse-Ancilaries.ps1",
+                "md5": "a2f3a8fda11ca2c9d6a29a46aef6b885",
+                "size": 8031,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/sbDiskPlaso.ps1",
+                "md5": "983593874fa589080bb1f45b2bb8c7e3",
+                "size": 829,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/Base/sbStart.ps1",
+                "md5": "781da439d66fa43d93e910e466c1ac0b",
+                "size": 578,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/ASEP/Get-StartupInfo.ps1",
+                "md5": "aa59f6c87f1d8e0f691eb06615cf2f2f",
+                "size": 5517,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/sbLogfile.ps1",
+                "md5": "d75693743ada5528752acda6c8019b79",
+                "size": 366,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/sbMft.ps1",
+                "md5": "96080c156c7e78b61606b83ecaa8d51c",
+                "size": 345,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/sbUsnj.ps1",
+                "md5": "f68396b09b3ca77012da566a18208022",
+                "size": 403,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/Base/sbLocalLiveResponse.ps1",
+                "md5": "438fdcc92b3f3778af71b06c9114903c",
+                "size": 2162,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+
+                "path": "Content/Scriptblock/sbPlasoFilter.ps1",
+                "md5": "b53807c94377ffdf5c46e1fea5258ad2",
+                "size": 20048,
+                "lastTimeDownloaded": "25.02.2019 17:38"
+            },
+            "filename": "sbCopyLiveResponse.ps1",
+            "fileinfo":{
+                "path": "Content/Scriptblock/sbAntiVirus.ps1",
+                "md5": "6d5eaa884f2854e80d5155aee4f0275d",
+                "size": 1377,
+                "lastTimeDownloaded": "25.02.2019 17:39"
+            }
+        }
+    }
+}    
