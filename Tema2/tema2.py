@@ -132,7 +132,7 @@ class MyHandler(BaseHTTPRequestHandler):
 def initDB():
     
     global tema2DB
-    myclient = pymongo.MongoClient("mongodb+srv://abucevschi:parola@cluster0-1co8t.mongodb.net/test?retryWrites=true")
+    myclient = pymongo.MongoClient("mongodb+srv://alex_bucevschi:parola@cluster0-1co8t.mongodb.net/test?retryWrites=true")
     tema2DB = myclient["tema2DB"]
     
 
@@ -149,10 +149,10 @@ def populateDB():
     for key, value in db.items():
         for filename, infos in value['files'].items():
             print(value)
-            tema2DB['paths'].insert({"repo": key, "infos": {'keywords': value['keywords'], 'files': {'filename': filename, 'fileinfo': infos}}}, check_keys=False)
+            tema2DB['paths'].insert_one({"repo": key, "infos": {'keywords': value['keywords'], 'files': {'filename': filename, 'fileinfo': infos}}})
     print("done populating")
     
 if __name__ == '__main__':
     initDB()
-#    populateDB()    
+    populateDB()    
     main()

@@ -1,0 +1,774 @@
+{
+	"info": {
+		"_postman_id": "6373d524-ce11-44db-a3ea-ae9d97bbb768",
+		"name": "da",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e681",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e681",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"md5",
+						"1e0cd6d159741ea6babc37506e98e681"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e681",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e681",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"md5",
+						"1e0cd6d159741ea6babc37506e98e681"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/asdasd",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/asdasd",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"asdasd"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"repo\": \"natnael-wubet/exploit_over_http\",\n    \"infos\": {\n        \"keywords\": [\n            \"exploit\"\n        ],\n        \"files\": {\n            \"asdas1\": \"form.ps2\",\n            \"fileinfo\": {\n                \"path\": \"form1.ps1\",\n                \"size\": 1455,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"423dc0b8781e7e8d9e15706712c89ca3\"\n            },\n            \"filename\": \"main.ps1\",\n            \"fileinfo\": {\n                \"path\": \"main.ps1\",\n                \"size\": 31766,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"718e6510a7f5dfbb542dabf6b61997b7\"\n            },\n            \"filename\": \"asdasd.ps1\",\n            \"fileinfo\": {\n                \"path\": \"back2.ps1\",\n                \"size\": 4153,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"b3b4d4880afcc4d32a1e0d7beaa5eca6\"\n            }\n        }\n    }\n}"
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"repo\": \"natnael-wubet/exploit_over_http\",\n    \"infos\": {\n        \"keywords\": [\n            \"exploit\"\n        ],\n        \"files\": {\n            \"asdas1\": \"form.ps2\",\n            \"fileinfo\": {\n                \"path\": \"form1.ps1\",\n                \"size\": 1455,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"423dc0b8781e7e8d9e15706712c89ca3\"\n            },\n            \"filename\": \"main.ps1\",\n            \"fileinfo\": {\n                \"path\": \"main.ps1\",\n                \"size\": 31766,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"718e6510a7f5dfbb542dabf6b61997b7\"\n            },\n            \"filename\": \"asdasd.ps1\",\n            \"fileinfo\": {\n                \"path\": \"back2.ps1\",\n                \"size\": 4153,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"b3b4d4880afcc4d32a1e0d7beaa5eca6\"\n            }\n        }\n    }\n}"
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"repo\": \"natnael-wubet/exploit_over_http\",\n    \"infos\": {\n        \"keywords\": [\n            \"exploit\"\n        ],\n        \"files\": {\n            \"asdas1\": \"form.ps2\",\n            \"fileinfo\": {\n                \"path\": \"form1.ps1\",\n                \"size\": 1455,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"423dc0b8781e7e8d9e15706712c89ca3\"\n            },\n            \"filename\": \"main.ps1\",\n            \"fileinfo\": {\n                \"path\": \"main.ps1\",\n                \"size\": 31766,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"718e6510a7f5dfbb542dabf6b61997b7\"\n            },\n            \"filename\": \"asdasd.ps1\",\n            \"fileinfo\": {\n                \"path\": \"back2.ps1\",\n                \"size\": 4153,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"b3b4d4880afcc4d32a1e0d7beaa5eca6\"\n            }\n        }\n    }\n}"
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"repo\": \"natnael-wubet/exploit_over_http\",\n    \"infos\": {\n        \"keywords\": [\n            \"exploit\"\n        ],\n        \"files\": {\n            \"asdas1\": \"form.ps2\",\n            \"fileinfo\": {\n                \"path\": \"form1.ps1\",\n                \"size\": 1455,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"423dc0b8781e7e8d9e15706712c89ca3\"\n            },\n            \"filename\": \"main.ps1\",\n            \"fileinfo\": {\n                \"path\": \"main.ps1\",\n                \"size\": 31766,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"718e6510a7f5dfbb542dabf6b61997b7\"\n            },\n            \"filename\": \"asdasd.ps1\",\n            \"fileinfo\": {\n                \"path\": \"back2.ps1\",\n                \"size\": 4153,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"b3b4d4880afcc4d32a1e0d7beaa5eca6\"\n            }\n        }\n    }\n}"
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e682",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e682",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"md5",
+						"1e0cd6d159741ea6babc37506e98e682"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"repo\": \"natnael-wubet/exploit_over_http\",\n    \"infos\": {\n        \"keywords\": [\n            \"exploit\"\n        ],\n        \"files\": {\n            \"asdas1\": \"form.ps2\",\n            \"fileinfo\": {\n                \"path\": \"form1.ps1\",\n                \"size\": 1455,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"423dc0b8781e7e8d9e15706712c89ca3\"\n            },\n            \"filename\": \"main.ps1\",\n            \"fileinfo\": {\n                \"path\": \"main.ps1\",\n                \"size\": 31766,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"718e6510a7f5dfbb542dabf6b61997b7\"\n            },\n            \"filename\": \"asdasd.ps1\",\n            \"fileinfo\": {\n                \"path\": \"back2.ps1\",\n                \"size\": 4153,\n                \"lastTimeDownloaded\": \"02.04.2018 13:59\",\n                \"md5\": \"b3b4d4880afcc4d32a1e0d7beaa5eca6\"\n            }\n        }\n    }\n}"
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e682",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e682",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"md5",
+						"1e0cd6d159741ea6babc37506e98e682"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunter",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e682",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/md5/1e0cd6d159741ea6babc37506e98e682",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"md5",
+						"1e0cd6d159741ea6babc37506e98e682"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunte",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:8080/repos/repo/FixTheExchange/Invoke-ExchangeWebShellHunte",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"repos",
+						"repo",
+						"FixTheExchange",
+						"Invoke-ExchangeWebShellHunte"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

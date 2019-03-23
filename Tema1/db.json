@@ -1,0 +1,15 @@
+{
+    "WindowsExploits/Exploits": {
+        "keywords": [
+            "exploit"
+        ],
+        "files": {
+            "CVE-2016-7255.ps1": {
+                "path": "CVE-2016-7255/CVE-2016-7255.ps1",
+                "md5": "9888ede4cd12681cdcc929a7038a033a",
+                "size": 25798,
+                "lastTimeDownloaded": "01.03.2019 10:41"
+            }
+        }
+    }
+}

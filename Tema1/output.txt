@@ -88,7 +88,7 @@
                 "releases_url": "https://api.github.com/repos/WindowsExploits/Exploits/releases{/id}",
                 "deployments_url": "https://api.github.com/repos/WindowsExploits/Exploits/deployments"
             },
-            "score": 12.532166
+            "score": 12.532253
         },
         {
             "name": "Readme.md",
@@ -164,7 +164,7 @@
                 "releases_url": "https://api.github.com/repos/WindowsExploits/Exploits/releases{/id}",
                 "deployments_url": "https://api.github.com/repos/WindowsExploits/Exploits/deployments"
             },
-            "score": 12.532166
+            "score": 12.532253
         },
         {
             "name": "40429.cs",
@@ -240,7 +240,7 @@
                 "releases_url": "https://api.github.com/repos/WindowsExploits/Exploits/releases{/id}",
                 "deployments_url": "https://api.github.com/repos/WindowsExploits/Exploits/deployments"
             },
-            "score": 9.794691
+            "score": 9.794791
         },
         {
             "name": "CVE-2017-0213.cpp",
@@ -316,7 +316,7 @@
                 "releases_url": "https://api.github.com/repos/WindowsExploits/Exploits/releases{/id}",
                 "deployments_url": "https://api.github.com/repos/WindowsExploits/Exploits/deployments"
             },
-            "score": 9.183389
+            "score": 9.183489
         },
         {
             "name": "main.c",
@@ -392,7 +392,7 @@
                 "releases_url": "https://api.github.com/repos/WindowsExploits/Exploits/releases{/id}",
                 "deployments_url": "https://api.github.com/repos/WindowsExploits/Exploits/deployments"
             },
-            "score": 6.6951303
+            "score": 6.6952085
         },
         {
             "name": "CVE-2016-7255.ps1",
@@ -468,7 +468,7 @@
                 "releases_url": "https://api.github.com/repos/WindowsExploits/Exploits/releases{/id}",
                 "deployments_url": "https://api.github.com/repos/WindowsExploits/Exploits/deployments"
             },
-            "score": 3.5656247
+            "score": 3.5656781
         }
     ]
 }

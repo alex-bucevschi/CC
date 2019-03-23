@@ -1,21 +1,21 @@
-[2019-03-01 10:13:13,633] Logger: Started Logger!
-[2019-03-01 10:13:29,625] Logger: https://api.github.com/search/repositories?q=exploit+language:powershell&per_page=100
+[2019-03-01 10:41:06,448] Logger: Started Logger!
+[2019-03-01 10:41:14,962] Logger: https://api.github.com/search/repositories?q=exploit+language:powershell&per_page=100
 
-[2019-03-01 10:13:32,545] Logger:  [!] Searching repo: WindowsExploits/Exploits
-[2019-03-01 10:13:32,547] Logger:      keyword invoke
+[2019-03-01 10:41:17,353] Logger:  [!] Searching repo: WindowsExploits/Exploits
+[2019-03-01 10:41:17,359] Logger:      keyword invoke
 
-[2019-03-01 10:13:33,662] Logger:  [!] Searching repo: WindowsExploits/Exploits
-[2019-03-01 10:13:33,666] Logger:      keyword payload
+[2019-03-01 10:41:19,294] Logger:  [!] Searching repo: WindowsExploits/Exploits
+[2019-03-01 10:41:19,295] Logger:      keyword payload
 
-[2019-03-01 10:13:34,913] Logger:  [!] Searching repo: WindowsExploits/Exploits
-[2019-03-01 10:13:34,915] Logger:      keyword malware
+[2019-03-01 10:41:20,461] Logger:  [!] Searching repo: WindowsExploits/Exploits
+[2019-03-01 10:41:20,463] Logger:      keyword malware
 
-[2019-03-01 10:13:37,847] Logger:  [!] Searching repo: WindowsExploits/Exploits
-[2019-03-01 10:13:37,847] Logger:      keyword exploit
+[2019-03-01 10:41:21,173] Logger:  [!] Searching repo: WindowsExploits/Exploits
+[2019-03-01 10:41:21,174] Logger:      keyword exploit
 
-[2019-03-01 10:13:39,233] Logger: WindowsExploits/Exploits / CVE-2016-7255.ps1
-[2019-03-01 10:13:40,088] Logger:  >>> FILE NEW
+[2019-03-01 10:41:22,387] Logger: WindowsExploits/Exploits / CVE-2016-7255.ps1
+[2019-03-01 10:41:22,950] Logger:  >>> FILE NEW
 
-[2019-03-01 10:13:45,997] Logger: https://api.github.com/search/repositories?q=invoke+language:powershell&per_page=100
+[2019-03-01 10:41:27,062] Logger: https://api.github.com/search/repositories?q=invoke+language:powershell&per_page=100
 
-[2019-03-01 10:13:48,470] Logger: {'WindowsExploits/Exploits': {'keywords': ['exploit'], 'files': {'CVE-2016-7255.ps1': {'path': 'CVE-2016-7255/CVE-2016-7255.ps1', 'md5': '9888ede4cd12681cdcc929a7038a033a', 'size': 25798, 'lastTimeDownloaded': '01.03.2019 10:13'}}}}
+[2019-03-01 10:41:28,743] Logger: {'WindowsExploits/Exploits': {'keywords': ['exploit'], 'files': {'CVE-2016-7255.ps1': {'path': 'CVE-2016-7255/CVE-2016-7255.ps1', 'md5': '9888ede4cd12681cdcc929a7038a033a', 'size': 25798, 'lastTimeDownloaded': '01.03.2019 10:41'}}}}
